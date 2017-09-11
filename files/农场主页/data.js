@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场主页.html",
-  "generationDate":new Date(1505127541877.84),
+  "generationDate":new Date(1505132189085.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -362,7 +362,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页/u398.png"}},
+            "normal~":"images/主页2/u123.png"}},
 {
           "id":"afe87538f3794605893b3997cf0f2daf",
           "label":"",
@@ -588,7 +588,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/主页2/u233.png"}},
 {
           "id":"1db9b5b8b454435f88006cc98d85d1ed",
           "label":"",
@@ -3627,7 +3627,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅卡列表/u130.jpg"}},
+                    "normal~":"images/主页2/u315.jpg"}},
 {
                   "id":"6ea2792f71e445cc87f265af1efa4e21",
                   "label":"",
@@ -3928,7 +3928,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/全部分类/u26.jpg"}},
+                    "normal~":"images/主页2/u242.png"}},
 {
                   "id":"ffa4a39426c8449eb4f990fdae048409",
                   "label":"",
@@ -4180,7 +4180,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅卡列表/u26.jpg"}},
+                    "normal~":"images/主页2/u254.jpg"}},
 {
                   "id":"e18bf649a36443739e1101d36be5e499",
                   "label":"",
@@ -4672,7 +4672,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅卡列表/u48.png"}},
+                    "normal~":"images/主页2/u233.png"}},
 {
                   "id":"ece2796527824f2da132a18b102788f2",
                   "label":"",
@@ -5110,7 +5110,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅卡列表/u48.png"}},
+                    "normal~":"images/主页2/u233.png"}},
 {
                   "id":"ef2881958d5c4ef1a128053035e28dd3",
                   "label":"",

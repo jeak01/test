@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择菜品_1.html",
-  "generationDate":new Date(1505127539251.4),
+  "generationDate":new Date(1505132186830.54),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -152,7 +152,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页/u398.png"}},
+            "normal~":"images/主页2/u123.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -2611,7 +2611,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u130.jpg"}},
+            "normal~":"images/主页2/u315.jpg"}},
 {
           "id":"a9da34c50c19481ca474cd8498ec8dce",
           "label":"",

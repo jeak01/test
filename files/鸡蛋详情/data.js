@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"鸡蛋详情.html",
-  "generationDate":new Date(1505127534787.44),
+  "generationDate":new Date(1505132183016.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -101,7 +101,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页/top_u46.png"}}]}]},
+                    "normal~":"images/主页2/top_u46.png"}}]}]},
 {
           "id":"38e93408ec794eccad020ba14f6c2317",
           "label":"",

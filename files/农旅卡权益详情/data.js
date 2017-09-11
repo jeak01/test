@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡权益详情.html",
-  "generationDate":new Date(1505127534574.13),
+  "generationDate":new Date(1505132182835.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -209,7 +209,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u354.png"}},
+            "normal~":"images/主页2/u83.png"}},
 {
           "id":"70fe9b8bf62540bca8069834016c593c",
           "label":"",
@@ -258,7 +258,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页/u398.png"}},
+            "normal~":"images/主页2/u123.png"}},
 {
           "id":"5f2785ae6a4a43abb26359ada3b09237",
           "label":"",
@@ -2261,7 +2261,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u26.jpg"}},
+            "normal~":"images/主页2/u254.jpg"}},
 {
           "id":"2cbb1e562bce4304a55d21fd2dc92afc",
           "label":"",
@@ -2415,7 +2415,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u146.jpg"}},
+            "normal~":"images/主页2/u300.jpg"}},
 {
           "id":"70580337c2cf4289b4c0321192f0ab2d",
           "label":"",
@@ -2456,7 +2456,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/主页2/u233.png"}},
 {
           "id":"046f328946a34d668b52f762df06f627",
           "label":"",
@@ -3239,7 +3239,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u354.png"}},
+                    "normal~":"images/主页2/u83.png"}},
 {
                   "id":"17bd5e82cb94470d945a3a0bd25e6591",
                   "label":"",

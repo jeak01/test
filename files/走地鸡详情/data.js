@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"走地鸡详情.html",
-  "generationDate":new Date(1505127534758.42),
+  "generationDate":new Date(1505132182979.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -227,7 +227,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页/top_u46.png"}}]}]}]}},
+                    "normal~":"images/主页2/top_u46.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

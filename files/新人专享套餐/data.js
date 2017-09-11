@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新人专享套餐.html",
-  "generationDate":new Date(1505127550751),
+  "generationDate":new Date(1505132197046.31),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -130,7 +130,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页2/top_u46.png"}},
 {
           "id":"70fe9b8bf62540bca8069834016c593c",
           "label":"",
@@ -179,7 +179,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页/u398.png"}},
+            "normal~":"images/主页2/u123.png"}},
 {
           "id":"5f2785ae6a4a43abb26359ada3b09237",
           "label":"",
@@ -3943,7 +3943,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/主页2/u233.png"}},
 {
           "id":"609ec88b904f41a89d4d6f3c91ec5218",
           "label":"",
@@ -4902,7 +4902,7 @@
                       "description":"在 当前窗口 打开 选择城市",
                       "target":{
                         "targetType":"page",
-                        "url":"选择城市_1.html",
+                        "url":"选择城市_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

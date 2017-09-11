@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"有机理念.html",
-  "generationDate":new Date(1505127545797.44),
+  "generationDate":new Date(1505132192667.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -146,7 +146,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页/u398.png"}},
+            "normal~":"images/主页2/u123.png"}},
 {
           "id":"929414852dd54e98823eaf1d30269cba",
           "label":"",

@@ -439,12 +439,13 @@
 }
 #u38 {
   position:absolute;
-  left:159px;
-  top:14px;
-  width:42px;
-  height:32px;
+  left:162px;
+  top:8px;
+  width:36px;
+  height:42px;
   font-family:'Arial Negreta', 'Arial';
   font-weight:700;
+  font-size:11px;
   color:#FF0000;
   text-align:center;
 }
@@ -452,14 +453,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
-  height:32px;
+  width:36px;
+  height:42px;
 }
 #u39 {
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
+  width:36px;
   white-space:nowrap;
 }
 #u40 {

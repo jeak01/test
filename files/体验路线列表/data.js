@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1505127573493.22),
+  "generationDate":new Date(1505132223803.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -85,7 +85,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页2/top_u46.png"}},
 {
           "id":"0d62b2a17a15404fb544a52017d90f50",
           "label":"",
@@ -134,7 +134,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页/u398.png"}},
+            "normal~":"images/主页2/u123.png"}},
 {
           "id":"021fad75f90542e8b699f56d7d7f2671",
           "label":"",
@@ -430,7 +430,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u54.png"}},
+            "normal~":"images/主页2/u54.png"}},
 {
           "id":"a848e210655b4b0093cab41c3d42a9b6",
           "label":"",
@@ -504,7 +504,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u54.png"}},
+            "normal~":"images/主页2/u54.png"}},
 {
           "id":"6869c294c8cb473c8be0f8dbcafbd00a",
           "label":"",
@@ -578,7 +578,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u54.png"}},
+            "normal~":"images/主页2/u54.png"}},
 {
           "id":"c5af0d3c2b6e47e7baae66d6be66e107",
           "label":"",
@@ -1564,7 +1564,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u97.jpg"}},
+            "normal~":"images/主页2/u278.jpg"}},
 {
           "id":"64545fc5270d479b95631900d15fd7ae",
           "label":"",
@@ -2348,7 +2348,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/top_u46.png"}},
+              "normal~":"images/主页2/top_u46.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -2545,7 +2545,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u362.png"}},
+              "normal~":"images/主页2/u91.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -2674,7 +2674,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页/u364.png"}},
+              "normal~":"images/主页2/u93.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

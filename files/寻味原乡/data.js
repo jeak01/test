@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"寻味原乡.html",
-  "generationDate":new Date(1505127560894.72),
+  "generationDate":new Date(1505132208722.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -481,7 +481,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/主页2/u233.png"}},
 {
           "id":"a373c9674c3049b387c68eaed30651f9",
           "label":"",
@@ -809,7 +809,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/主页2/u233.png"}},
 {
           "id":"692881766d6a4376bfdeeeaa2439fccc",
           "label":"",
@@ -1137,7 +1137,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/主页2/u233.png"}},
 {
           "id":"9027a6247d8443a18640744156336ee1",
           "label":"",
@@ -1503,7 +1503,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/主页2/u233.png"}},
 {
           "id":"1a196fdab87c4f82be273cb77e1cd5f9",
           "label":"",
@@ -1782,7 +1782,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u354.png"}},
+                    "normal~":"images/主页2/u83.png"}},
 {
                   "id":"a957d52d113041da9f74f89dab6d7499",
                   "label":"",
@@ -1866,7 +1866,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u354.png"}},
+                    "normal~":"images/主页2/u83.png"}},
 {
                   "id":"b56037eae26e44dd8540fb877b72c73f",
                   "label":"",
@@ -1942,7 +1942,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u354.png"}},
+                    "normal~":"images/主页2/u83.png"}},
 {
                   "id":"de41f9eb977d4098a3592cd56cf3793e",
                   "label":"",
@@ -2018,7 +2018,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u354.png"}},
+                    "normal~":"images/主页2/u83.png"}},
 {
                   "id":"b505b99978fc4c2596e7187a593b6aca",
                   "label":"",
@@ -2094,7 +2094,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u354.png"}},
+                    "normal~":"images/主页2/u83.png"}},
 {
                   "id":"b467a9029c8d4cff8a6fac0cfa146132",
                   "label":"",
@@ -2170,7 +2170,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u354.png"}},
+                    "normal~":"images/主页2/u83.png"}},
 {
                   "id":"7ac9f00dc6c34c349d7cd57417408198",
                   "label":"",
@@ -2246,7 +2246,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页/u354.png"}},
+                    "normal~":"images/主页2/u83.png"}},
 {
                   "id":"2f6e5f9eeea4405da25c41cd40ed9e56",
                   "label":"",
@@ -3111,7 +3111,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u54.png"}},
+            "normal~":"images/主页2/u54.png"}},
 {
           "id":"d1993c4fd11c4dbb95dc2b3e6ced93e0",
           "label":"主页页首",
@@ -3833,7 +3833,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页2/top_u46.png"}},
 {
           "id":"7301081947aa4d32bd80f7e4835d5200",
           "label":"",
@@ -3915,7 +3915,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u50.png"}},
+            "normal~":"images/主页2/u50.png"}},
 {
           "id":"3ce0dcf1ae0045f5b13a81f74ecb61f1",
           "label":"",
@@ -3999,7 +3999,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u54.png"}},
+            "normal~":"images/主页2/u54.png"}},
 {
           "id":"180674eb3bf04abeb270749fa54a9012",
           "label":"",
@@ -4040,7 +4040,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u56.png"}},
+            "normal~":"images/主页2/u56.png"}},
 {
           "id":"4a0bbd7774234c75b40dd4aeb98bfb0e",
           "label":"",
@@ -4073,7 +4073,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u58.png"}},
+            "normal~":"images/主页2/u58.png"}},
 {
           "id":"5dde9244c4ea4685bb7d1df3c21d95b8",
           "label":"",
@@ -4467,7 +4467,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u354.png"}},
+                      "normal~":"images/主页2/u83.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -4650,7 +4650,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u362.png"}},
+                      "normal~":"images/主页2/u91.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -4685,7 +4685,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u364.png"}},
+                      "normal~":"images/主页2/u93.png"}},
 {
                     "id":"999196b197e840f79974725b89c13987",
                     "label":"",
@@ -4755,7 +4755,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页/u372.png"}},
+                      "normal~":"images/主页2/u101.png"}},
 {
                     "id":"eec58566454a4f2e98c657fc63602e14",
                     "label":"",

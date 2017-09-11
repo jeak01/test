@@ -13,6 +13,18 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
+        "pageName":"6.0",
+        "type":"Folder",
+        "url":"",
+        "children":[{
+            "pageName":"主页2",
+            "type":"Wireframe",
+            "url":"主页2.html",
+            "children":[{
+                "pageName":"选择城市",
+                "type":"Wireframe",
+                "url":"选择城市.html"}]}]},
+{
         "pageName":"5.0",
         "type":"Folder",
         "url":"",
@@ -23,7 +35,7 @@
             "children":[{
                 "pageName":"选择城市",
                 "type":"Wireframe",
-                "url":"选择城市.html"}]},
+                "url":"选择城市_1.html"}]},
 {
             "pageName":"全部分类",
             "type":"Wireframe",
@@ -295,7 +307,7 @@
                 "children":[{
                     "pageName":"选择城市",
                     "type":"Wireframe",
-                    "url":"选择城市_1.html"}]},
+                    "url":"选择城市_2.html"}]},
 {
                 "pageName":"新人专享套餐",
                 "type":"Wireframe",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品详情.html",
-  "generationDate":new Date(1505127535955.21),
+  "generationDate":new Date(1505132183947.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -364,7 +364,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页2/top_u46.png"}},
 {
           "id":"ac45b92f791b4adbb52042a50d25cfc4",
           "label":"",
@@ -413,7 +413,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页/u398.png"}},
+            "normal~":"images/主页2/u123.png"}},
 {
           "id":"5f390aa89e4442d89b609ac3c1b89e76",
           "label":"",
@@ -608,7 +608,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u134.jpg"}},
+            "normal~":"images/主页2/u216.jpg"}},
 {
           "id":"0e7f4f9caefb487885a980ee6b688931",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_5.html",
-  "generationDate":new Date(1505127555893.41),
+  "generationDate":new Date(1505132202547.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -242,7 +242,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页2/top_u46.png"}},
 {
           "id":"872640187cde461995c12c3310c50370",
           "label":"",
@@ -291,7 +291,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页/u398.png"}},
+            "normal~":"images/主页2/u123.png"}},
 {
           "id":"5d461c2f6d804383a230526066d1af49",
           "label":"",
@@ -3476,7 +3476,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u54.png"}},
+            "normal~":"images/主页2/u54.png"}},
 {
           "id":"f46e020cfa5d479daf4c5b1231f440b3",
           "label":"",

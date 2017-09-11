@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"宅配详情.html",
-  "generationDate":new Date(1505127558468.11),
+  "generationDate":new Date(1505132205767.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -157,7 +157,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页2/top_u46.png"}},
 {
           "id":"d65c137f838d4f8cb5f733c504dc93c6",
           "label":"",
@@ -206,7 +206,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页/u398.png"}},
+            "normal~":"images/主页2/u123.png"}},
 {
           "id":"cf921453cb69460e84151c8b384bc978",
           "label":"",
@@ -599,7 +599,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/主页2/u233.png"}},
 {
           "id":"c7b7c86cf3ca4027ab5b168e3c3698c8",
           "label":"",
@@ -982,7 +982,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页2/top_u46.png"}},
 {
           "id":"e266eacb581e41fb9fe3263e02d898ee",
           "label":"",
@@ -3904,7 +3904,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页2/top_u46.png"}},
 {
           "id":"f5e204512102495ca53a773071d0cd6d",
           "label":"",
@@ -4653,7 +4653,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页2/top_u46.png"}},
 {
           "id":"af78941b15da4b8d91e6accc547b1a66",
           "label":"",
@@ -5327,7 +5327,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u100.png"}},
+            "normal~":"images/主页2/u182.png"}},
 {
           "id":"a9228fbf703f49d4926fa67f1bed9636",
           "label":"",

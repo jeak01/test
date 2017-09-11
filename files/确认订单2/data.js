@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单2.html",
-  "generationDate":new Date(1505127539626.65),
+  "generationDate":new Date(1505132187195.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -152,7 +152,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页/u398.png"}},
+            "normal~":"images/主页2/u123.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -598,7 +598,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u26.jpg"}},
+            "normal~":"images/主页2/u254.jpg"}},
 {
           "id":"1764d762fd584bc78a6bbab6f92f30f2",
           "label":"",
@@ -1669,7 +1669,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u354.png"}},
+            "normal~":"images/主页2/u83.png"}},
 {
           "id":"e5d954891f3a40bc891190edfdefa714",
           "label":"",

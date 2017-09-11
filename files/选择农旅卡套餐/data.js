@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择农旅卡套餐.html",
-  "generationDate":new Date(1505127546648.04),
+  "generationDate":new Date(1505132193444.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/top_u46.png"}},
+            "normal~":"images/主页2/top_u46.png"}},
 {
           "id":"bf69f17d6a6545d8bee46524fc793515",
           "label":"",
@@ -146,7 +146,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页/u398.png"}},
+            "normal~":"images/主页2/u123.png"}},
 {
           "id":"59d322316f3b4dd8a32b06600c98d7fa",
           "label":"",
@@ -395,7 +395,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u26.jpg"}},
+            "normal~":"images/主页2/u254.jpg"}},
 {
           "id":"2b116e8b6c804993ad1eb8ef5c78eeb6",
           "label":"",
@@ -838,7 +838,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/主页2/u233.png"}},
 {
           "id":"8ab3d18f6f1d4f9baf9fbd77a2c25835",
           "label":"",
@@ -1653,7 +1653,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u26.jpg"}},
+            "normal~":"images/主页2/u254.jpg"}},
 {
           "id":"2ec19d879ec142239818ed5ad6b2587d",
           "label":"",
@@ -2096,7 +2096,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/主页2/u233.png"}},
 {
           "id":"1d69e69db16e40bf80055dfd3fd19453",
           "label":"",
@@ -2612,7 +2612,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u130.jpg"}},
+            "normal~":"images/主页2/u315.jpg"}},
 {
           "id":"b72b4604686b42b0ab94bab34f98dd26",
           "label":"",
@@ -3055,7 +3055,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/主页2/u233.png"}},
 {
           "id":"3247f5675d7543a68988df1f0aadd26c",
           "label":"",
@@ -3571,7 +3571,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u26.jpg"}},
+            "normal~":"images/主页2/u254.jpg"}},
 {
           "id":"b0df25966f6d4a289cad6a8ef5e787c6",
           "label":"",
@@ -4014,7 +4014,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/主页2/u233.png"}},
 {
           "id":"83534808056349c98a993a6c097e3cea",
           "label":"",
@@ -4530,7 +4530,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u26.jpg"}},
+            "normal~":"images/主页2/u254.jpg"}},
 {
           "id":"09d1b710ba3a4b57ad100d480b02bbf2",
           "label":"",
@@ -4973,7 +4973,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u48.png"}},
+            "normal~":"images/主页2/u233.png"}},
 {
           "id":"9cdecc6b2afc4e8c9fe131981ae2048f",
           "label":"",
