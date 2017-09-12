@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情.html",
-  "generationDate":new Date(1505197877957.5),
+  "generationDate":new Date(1505199727156.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -368,7 +368,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u87.jpg"}},
+            "normal~":"images/农场列表/u79.jpg"}},
 {
           "id":"51ce9cd3f47d47b6bf585ab2875640f4",
           "label":"",

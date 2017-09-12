@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅线路.html",
-  "generationDate":new Date(1505197853053.44),
+  "generationDate":new Date(1505199704211.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -7344,7 +7344,7 @@
               "color":0xFF666666,
               "opacity":1},
             "location":{
-              "x":131,
+              "x":129,
               "y":193},
             "size":{
               "width":100,
@@ -7367,7 +7367,7 @@
                   "color":0xFF666666,
                   "opacity":1},
                 "location":{
-                  "x":131,
+                  "x":129,
                   "y":193},
                 "size":{
                   "width":100,

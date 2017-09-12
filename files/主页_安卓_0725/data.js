@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页_安卓_0725.html",
-  "generationDate":new Date(1505197879787.08),
+  "generationDate":new Date(1505199728596.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2055,7 +2055,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u87.jpg"}},
+            "normal~":"images/农场列表/u79.jpg"}},
 {
           "id":"11121f84097c45f4be187b25d15f56bb",
           "label":"",
@@ -2706,7 +2706,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u87.jpg"}},
+            "normal~":"images/农场列表/u79.jpg"}},
 {
           "id":"d650671a93e44cf5b258ae5f1337069d",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"宅配详情.html",
-  "generationDate":new Date(1505197868509.97),
+  "generationDate":new Date(1505199717627.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -401,7 +401,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u87.jpg"}},
+            "normal~":"images/农场列表/u79.jpg"}},
 {
           "id":"51ce9cd3f47d47b6bf585ab2875640f4",
           "label":"",

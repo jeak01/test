@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"体验路线列表.html",
-  "generationDate":new Date(1505197882452.59),
+  "generationDate":new Date(1505199730843.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -644,7 +644,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农场列表/u87.jpg"}},
+            "normal~":"images/农场列表/u79.jpg"}},
 {
           "id":"db8e13db22054720b5f8665cf4adbc18",
           "label":"",

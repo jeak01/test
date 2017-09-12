@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（初始）.html",
-  "generationDate":new Date(1505197866438.8),
+  "generationDate":new Date(1505199715678.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -648,7 +648,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单_2/u257.png"}},
+            "normal~":"images/线路详情_1/u341.png"}},
 {
           "id":"4917597415d94ebf9f99abafe4c94612",
           "label":"",

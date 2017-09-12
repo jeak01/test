@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（已选农旅）.html",
-  "generationDate":new Date(1505197867127.25),
+  "generationDate":new Date(1505199716350.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1056,7 +1056,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单_2/u257.png"}},
+            "normal~":"images/线路详情_1/u341.png"}},
 {
           "id":"a1690a5729d343e2b43478dc3484dddc",
           "label":"",

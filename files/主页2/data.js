@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页2.html",
-  "generationDate":new Date(1505197841121.53),
+  "generationDate":new Date(1505199694307.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8549,10 +8549,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农场列表",
+                      "description":"在 当前窗口 打开 农旅卡主题页",
                       "target":{
                         "targetType":"page",
-                        "url":"农场列表.html",
+                        "url":"农旅卡主题页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
