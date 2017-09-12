@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（已选农旅）.html",
-  "generationDate":new Date(1505201785564.5),
+  "generationDate":new Date(1505201952360.75),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

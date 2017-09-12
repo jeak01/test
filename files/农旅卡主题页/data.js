@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡主题页.html",
-  "generationDate":new Date(1505201767607.61),
+  "generationDate":new Date(1505201933300.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1364,7 +1364,7 @@
               "fillType":"solid",
               "color":0xFF66CC99},
             "location":{
-              "x":21,
+              "x":131,
               "y":207},
             "size":{
               "width":100,
@@ -1386,7 +1386,7 @@
                   "fillType":"solid",
                   "color":0xFF66CC99},
                 "location":{
-                  "x":21,
+                  "x":131,
                   "y":207},
                 "size":{
                   "width":100,
@@ -1406,7 +1406,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":29,
+              "x":139,
               "y":214},
             "size":{
               "width":34,
@@ -1422,7 +1422,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":29,
+                  "x":139,
                   "y":214},
                 "size":{
                   "width":34,
@@ -1443,7 +1443,7 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":63,
+              "x":173,
               "y":216},
             "size":{
               "width":53,
@@ -1463,7 +1463,7 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":63,
+                  "x":173,
                   "y":216},
                 "size":{
                   "width":53,
@@ -1487,7 +1487,7 @@
               "fillType":"solid",
               "color":0xFFFF0066},
             "location":{
-              "x":131,
+              "x":21,
               "y":207},
             "size":{
               "width":100,
@@ -1513,7 +1513,7 @@
                   "fillType":"solid",
                   "color":0xFFFF0066},
                 "location":{
-                  "x":131,
+                  "x":21,
                   "y":207},
                 "size":{
                   "width":100,
@@ -1538,7 +1538,7 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":163,
+              "x":53,
               "y":216},
             "size":{
               "width":63,
@@ -1559,7 +1559,7 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":163,
+                  "x":53,
                   "y":216},
                 "size":{
                   "width":63,
@@ -1576,7 +1576,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":139,
+              "x":29,
               "y":219},
             "size":{
               "width":24,
@@ -1592,7 +1592,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":139,
+                  "x":29,
                   "y":219},
                 "size":{
                   "width":24,

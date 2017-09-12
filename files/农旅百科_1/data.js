@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅百科_1.html",
-  "generationDate":new Date(1505201781833.03),
+  "generationDate":new Date(1505201948497.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
