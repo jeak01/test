@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择农旅卡套餐.html",
-  "generationDate":new Date(1505199707740.39),
+  "generationDate":new Date(1505201777078.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1979,7 +1979,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u94.jpg"}},
+            "normal~":"images/主页2/u348.jpg"}},
 {
           "id":"f1316afc6dbf406f8ad156aa73e07544",
           "label":"",
