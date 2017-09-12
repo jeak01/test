@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择城市_1.html",
-  "generationDate":new Date(1505132180987.66),
+  "generationDate":new Date(1505197842216.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"fab7dd6f2f5040c0b642c3efda5ebc4c",
+    "packageId":"3717432a9797402a976d5407d1d8599a",
     "type":"Axure:Page",
     "name":"选择城市",
     "notes":{
@@ -152,7 +152,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u123.png"}},
+            "normal~":"images/主页2/u107.png"}},
 {
           "id":"91c266d9631b44ff8e81f8488640e4d0",
           "label":"",
@@ -371,7 +371,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"0a40cce374d040b69e86b6ceab87c5af",
           "label":"",
@@ -848,7 +848,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"10c7f819d59046c4900bc145bbd5a631",
           "label":"",
@@ -971,7 +971,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"80e4051c15b94067a48e61d46367938c",
           "label":"",
@@ -1094,7 +1094,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"75c135eb1f9c462b94be2b71a758f74a",
           "label":"",
@@ -1203,7 +1203,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"0c9deb66a2cc4f878036c98f26a04f8d",
           "label":"",
@@ -1312,7 +1312,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"973b3a42f6054f4e8b9476bb4a8fe36c",
           "label":"",
@@ -1421,7 +1421,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"0f48493c88de4cd48138e5cdd507a5a5",
           "label":"",
@@ -1530,7 +1530,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"87c6ca79db3243228fe52a9c486b2d65",
           "label":"",
@@ -1602,7 +1602,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"a9785711b2894a9bbac6f11ae50a3df6",
           "label":"",

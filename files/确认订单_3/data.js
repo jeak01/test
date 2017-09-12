@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单_3.html",
-  "generationDate":new Date(1505132197610.69),
+  "generationDate":new Date(1505197861548.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -198,7 +198,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u123.png"}},
+            "normal~":"images/主页2/u107.png"}},
 {
           "id":"0a3cc1b1f0e346c5a0f2769a58cf56d0",
           "label":"",
@@ -838,7 +838,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u223.png"}},
+            "normal~":"images/主页3/u213.png"}},
 {
           "id":"fa9ac6a8b44d4024b8c52c4e9cd4833a",
           "label":"",
@@ -984,7 +984,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u223.png"}},
+            "normal~":"images/主页3/u213.png"}},
 {
           "id":"cc7ab4d2252a4300a583945fa78daf66",
           "label":"",
@@ -6134,7 +6134,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u223.png"}},
+            "normal~":"images/主页3/u213.png"}},
 {
           "id":"2c7d63624a2c4be091af378c109f0781",
           "label":"",
@@ -6534,7 +6534,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u223.png"}},
+            "normal~":"images/主页3/u213.png"}},
 {
           "id":"b22dbb602802489bb7107b5e633999ae",
           "label":"",

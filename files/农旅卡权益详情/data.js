@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡权益详情.html",
-  "generationDate":new Date(1505132182835.89),
+  "generationDate":new Date(1505197844997.59),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -209,7 +209,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"70fe9b8bf62540bca8069834016c593c",
           "label":"",
@@ -258,7 +258,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u123.png"}},
+            "normal~":"images/主页2/u107.png"}},
 {
           "id":"5f2785ae6a4a43abb26359ada3b09237",
           "label":"",
@@ -1965,7 +1965,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u22.jpg"}},
+            "normal~":"images/农旅卡列表/u16.jpg"}},
 {
           "id":"61ea31328aa34987976ba96a0d2e2a0c",
           "label":"",
@@ -2113,7 +2113,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u24.jpg"}},
+            "normal~":"images/农旅卡列表/u18.jpg"}},
 {
           "id":"7b09ba85565a4ef99441556115f48520",
           "label":"",
@@ -2261,7 +2261,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u254.jpg"}},
+            "normal~":"images/主页2/u238.jpg"}},
 {
           "id":"2cbb1e562bce4304a55d21fd2dc92afc",
           "label":"",
@@ -2415,7 +2415,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u300.jpg"}},
+            "normal~":"images/主页2/u284.jpg"}},
 {
           "id":"70580337c2cf4289b4c0321192f0ab2d",
           "label":"",
@@ -2456,7 +2456,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u233.png"}},
+            "normal~":"images/主页2/u217.png"}},
 {
           "id":"046f328946a34d668b52f762df06f627",
           "label":"",
@@ -3239,7 +3239,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页2/u83.png"}},
+                    "normal~":"images/主页2/u67.png"}},
 {
                   "id":"17bd5e82cb94470d945a3a0bd25e6591",
                   "label":"",
@@ -3555,10 +3555,10 @@
               "color":0xFF999999,
               "opacity":1},
             "location":{
-              "x":263,
+              "x":253,
               "y":218},
             "size":{
-              "width":89,
+              "width":100,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -3576,10 +3576,10 @@
                   "color":0xFF999999,
                   "opacity":1},
                 "location":{
-                  "x":263,
+                  "x":253,
                   "y":218},
                 "size":{
-                  "width":89,
+                  "width":100,
                   "height":16}},
               "adaptiveStyles":{
 }}],

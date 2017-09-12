@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员充值.html",
-  "generationDate":new Date(1505132195409.23),
+  "generationDate":new Date(1505197859113.57),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -136,7 +136,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"898b8dc43747405ead4300c3a3c9bcac",
           "label":"",
@@ -185,7 +185,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u123.png"}},
+            "normal~":"images/主页2/u107.png"}},
 {
           "id":"0e77fca28e9d4fc78488a5a2ee541eb1",
           "label":"",

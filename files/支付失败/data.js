@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付失败.html",
-  "generationDate":new Date(1505132186476.3),
+  "generationDate":new Date(1505197849049.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -179,7 +179,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u123.png"}},
+            "normal~":"images/主页2/u107.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -520,7 +520,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u170.png"}},
+            "normal~":"images/主页2/u154.png"}},
 {
           "id":"ac9734797b9d42eb86b3c13617264312",
           "label":"",

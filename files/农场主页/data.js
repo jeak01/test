@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场主页.html",
-  "generationDate":new Date(1505132189085.03),
+  "generationDate":new Date(1505197852237.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -362,7 +362,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u123.png"}},
+            "normal~":"images/主页2/u107.png"}},
 {
           "id":"afe87538f3794605893b3997cf0f2daf",
           "label":"",
@@ -588,7 +588,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u233.png"}},
+            "normal~":"images/主页2/u217.png"}},
 {
           "id":"1db9b5b8b454435f88006cc98d85d1ed",
           "label":"",
@@ -1125,7 +1125,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅卡列表/u42.jpg"}},
+                    "normal~":"images/农旅卡列表/u36.jpg"}},
 {
                   "id":"c634a516273b47b2acf0be62562b2bff",
                   "label":"",
@@ -3387,7 +3387,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅卡列表/u82.jpg"}},
+                    "normal~":"images/农旅卡列表/u76.jpg"}},
 {
                   "id":"f9bab79350de4075b9ecf47844a137f3",
                   "label":"",
@@ -3627,7 +3627,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页2/u315.jpg"}},
+                    "normal~":"images/主页2/u299.jpg"}},
 {
                   "id":"6ea2792f71e445cc87f265af1efa4e21",
                   "label":"",
@@ -3928,7 +3928,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页2/u242.png"}},
+                    "normal~":"images/主页2/u226.png"}},
 {
                   "id":"ffa4a39426c8449eb4f990fdae048409",
                   "label":"",
@@ -4180,7 +4180,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页2/u254.jpg"}},
+                    "normal~":"images/主页2/u238.jpg"}},
 {
                   "id":"e18bf649a36443739e1101d36be5e499",
                   "label":"",
@@ -4672,7 +4672,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页2/u233.png"}},
+                    "normal~":"images/主页2/u217.png"}},
 {
                   "id":"ece2796527824f2da132a18b102788f2",
                   "label":"",
@@ -5110,7 +5110,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页2/u233.png"}},
+                    "normal~":"images/主页2/u217.png"}},
 {
                   "id":"ef2881958d5c4ef1a128053035e28dd3",
                   "label":"",

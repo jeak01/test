@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新人专享套餐.html",
-  "generationDate":new Date(1505132197046.31),
+  "generationDate":new Date(1505197861051.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -179,7 +179,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u123.png"}},
+            "normal~":"images/主页2/u107.png"}},
 {
           "id":"5f2785ae6a4a43abb26359ada3b09237",
           "label":"",
@@ -3943,7 +3943,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u233.png"}},
+            "normal~":"images/主页2/u217.png"}},
 {
           "id":"609ec88b904f41a89d4d6f3c91ec5218",
           "label":"",
@@ -4902,7 +4902,7 @@
                       "description":"在 当前窗口 打开 选择城市",
                       "target":{
                         "targetType":"page",
-                        "url":"选择城市_2.html",
+                        "url":"选择城市_3.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

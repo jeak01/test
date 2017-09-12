@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"激活农旅卡.html",
-  "generationDate":new Date(1505132193102.7),
+  "generationDate":new Date(1505197856608.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -152,7 +152,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u123.png"}},
+            "normal~":"images/主页2/u107.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -302,7 +302,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"ee466ecb2bd742238102295788b856bc",
           "label":"",
@@ -389,7 +389,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"2061561ab5c24ab8afc248cfddf9e438",
           "label":"",

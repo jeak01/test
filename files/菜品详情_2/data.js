@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"菜品详情_2.html",
-  "generationDate":new Date(1505132215434.51),
+  "generationDate":new Date(1505197875587.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -156,7 +156,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/待发货/u4.png"}},
+            "normal~":"images/主页2/u416.png"}},
 {
           "id":"5b5cfe99197147e0b670e7698380e85e",
           "label":"",
@@ -277,7 +277,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"f5b660bbf79841078e049bf4ac1f1b2c",
           "label":"",
@@ -357,7 +357,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"c44d7c1a4a8e4cb585f3073eeff814b9",
           "label":"",
@@ -437,7 +437,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"ddd815504a3f4eecbd718a1a222e54d1",
           "label":"",
@@ -517,7 +517,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u83.png"}},
+            "normal~":"images/主页2/u67.png"}},
 {
           "id":"231a53c281204ff1abbfd4ce1ef37b8d",
           "label":"",
