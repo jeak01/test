@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员主页_安卓_0810.html",
-  "generationDate":new Date(1505201966826.87),
+  "generationDate":new Date(1505293720719.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2689,7 +2689,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u403.png"}},
+            "normal~":"images/主页2/u336.png"}},
 {
           "id":"8255a88fa4dd4a08820e20d4bbab5682",
           "label":"",
@@ -2737,7 +2737,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u401.png"}},
+            "normal~":"images/主页2/u334.png"}},
 {
           "id":"e9bd3f9086a24e88a1c8ffe1d3e479ab",
           "label":"",
@@ -2824,7 +2824,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员主页_安卓_/u122.png"}},
+            "normal~":"images/主页2/u361.png"}},
 {
           "id":"4b5ea6e0dfee40d7b6150de1bb3c8947",
           "label":"",
@@ -2857,7 +2857,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅线路/u205.png"}},
+            "normal~":"images/主页2/u363.png"}},
 {
           "id":"0e2f6da526bd47379c2ef59b56614b50",
           "label":"",
@@ -3004,7 +3004,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u411.png"}},
+            "normal~":"images/主页2/u344.png"}},
 {
           "id":"6bb78c23fffc4038997e6a9dc8b5510d",
           "label":"",
@@ -3178,7 +3178,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/会员主页_安卓_/u142_line.png"}},
+            "line~":"images/主页2/u377_line.png"}},
 {
           "id":"09131a7f01654fabb051a05f03e0f9dd",
           "label":"",
@@ -3235,7 +3235,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员主页_安卓_/u143.png"}},
+            "normal~":"images/主页2/u378.png"}},
 {
           "id":"4e597b4c348f4774abcd68f51a1ed617",
           "label":"",
@@ -3530,7 +3530,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员主页_安卓_/u143.png"}},
+            "normal~":"images/主页2/u378.png"}},
 {
           "id":"970b381cccff467bab24aaa87132807d",
           "label":"",
@@ -3759,7 +3759,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/会员主页_安卓_/u143.png"}},
+            "normal~":"images/主页2/u378.png"}},
 {
           "id":"2d2a8837c2634fe6859f93d0bc6ca67f",
           "label":"",
@@ -4279,7 +4279,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅线路/u205.png"}},
+            "normal~":"images/主页2/u363.png"}},
 {
           "id":"06f357b918a34088ab987dd773eaabe9",
           "label":"",
@@ -4516,7 +4516,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅线路/u205.png"}},
+            "normal~":"images/主页2/u363.png"}},
 {
           "id":"09d2b9ec18ae40c1a88feb5757bdc60a",
           "label":"",

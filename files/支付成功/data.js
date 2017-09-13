@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功.html",
-  "generationDate":new Date(1505201934378.7),
+  "generationDate":new Date(1505293666728.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"1e2d585ea2ff4db19eb794d6769513fd",
+    "packageId":"2e9c849f74974e80ba536962acbc3f37",
     "type":"Axure:Page",
     "name":"支付成功",
     "notes":{
@@ -292,7 +292,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/支付成功/u10.png"}},
+            "normal~":"images/蔬菜宅配/u253.png"}},
 {
           "id":"21163552684e464a923121757a0d1de4",
           "label":"",
@@ -367,10 +367,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 主页",
+                      "description":"在 当前窗口 打开 主页2",
                       "target":{
                         "targetType":"page",
-                        "url":"主页.html",
+                        "url":"主页2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -441,10 +441,10 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 我的农旅卡",
+                              "description":"在 当前窗口 打开 蔬果订单详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"我的农旅卡.html",
+                                "url":"蔬果订单详情.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章列表_1.html",
-  "generationDate":new Date(1505201945301.98),
+  "generationDate":new Date(1505293694704.57),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -156,7 +156,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u416.png"}},
+            "normal~":"images/主页2/u349.png"}},
 {
           "id":"5b5cfe99197147e0b670e7698380e85e",
           "label":"",
@@ -947,7 +947,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u119.JPG"}},
+            "normal~":"images/蔬菜宅配/u435.JPG"}},
 {
           "id":"97c83e17cc7a4406a1509b42e9666b34",
           "label":"",

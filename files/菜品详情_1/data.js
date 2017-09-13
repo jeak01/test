@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"菜品详情_1.html",
-  "generationDate":new Date(1505201954322.97),
+  "generationDate":new Date(1505293706608.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -411,7 +411,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u166.png"}},
+            "normal~":"images/主页3/u90.png"}},
 {
           "id":"ac8646fd92c546a6bf1c3865d2b9f67d",
           "label":"",
@@ -615,7 +615,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/农旅卡权益详情/u155.png"}}]}]}]}},
+                    "normal~":"images/订单支付页/u30.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

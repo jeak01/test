@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择农旅卡套餐.html",
-  "generationDate":new Date(1505201943375.7),
+  "generationDate":new Date(1505293691444.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -362,7 +362,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u18.jpg"}},
+            "normal~":"images/主页2/u367.jpg"}},
 {
           "id":"eb27d788320a4fb7a0727e7eb84405a5",
           "label":"",
@@ -395,7 +395,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u238.jpg"}},
+            "normal~":"images/主页2/u187.jpg"}},
 {
           "id":"2b116e8b6c804993ad1eb8ef5c78eeb6",
           "label":"",
@@ -721,7 +721,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u36.jpg"}},
+            "normal~":"images/蔬菜宅配/u375.jpg"}},
 {
           "id":"611170ca953244adb82e53a808742c88",
           "label":"",
@@ -838,7 +838,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u217.png"}},
+            "normal~":"images/主页2/u166.png"}},
 {
           "id":"8ab3d18f6f1d4f9baf9fbd77a2c25835",
           "label":"",
@@ -1620,7 +1620,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u76.jpg"}},
+            "normal~":"images/蔬菜宅配/u232.jpg"}},
 {
           "id":"db544508598f4cf3a3b1f435f75dd246",
           "label":"",
@@ -1653,7 +1653,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u238.jpg"}},
+            "normal~":"images/主页2/u187.jpg"}},
 {
           "id":"2ec19d879ec142239818ed5ad6b2587d",
           "label":"",
@@ -1979,7 +1979,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u348.jpg"}},
+            "normal~":"images/主页2/u285.jpg"}},
 {
           "id":"f1316afc6dbf406f8ad156aa73e07544",
           "label":"",
@@ -2096,7 +2096,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u217.png"}},
+            "normal~":"images/主页2/u166.png"}},
 {
           "id":"1d69e69db16e40bf80055dfd3fd19453",
           "label":"",
@@ -2579,7 +2579,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u18.jpg"}},
+            "normal~":"images/主页2/u367.jpg"}},
 {
           "id":"1607282cd40e4977813b499fd575c34c",
           "label":"",
@@ -2612,7 +2612,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u299.jpg"}},
+            "normal~":"images/主页2/u244.jpg"}},
 {
           "id":"b72b4604686b42b0ab94bab34f98dd26",
           "label":"",
@@ -2938,7 +2938,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u140.jpg"}},
+            "normal~":"images/蔬菜宅配/u423.jpg"}},
 {
           "id":"80cc440039094b1e8733c3f2368f13e8",
           "label":"",
@@ -3055,7 +3055,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u217.png"}},
+            "normal~":"images/主页2/u166.png"}},
 {
           "id":"3247f5675d7543a68988df1f0aadd26c",
           "label":"",
@@ -3571,7 +3571,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u238.jpg"}},
+            "normal~":"images/主页2/u187.jpg"}},
 {
           "id":"b0df25966f6d4a289cad6a8ef5e787c6",
           "label":"",
@@ -3897,7 +3897,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u36.jpg"}},
+            "normal~":"images/蔬菜宅配/u375.jpg"}},
 {
           "id":"f9e32203bc344c15b9c412d6462fd8bb",
           "label":"",
@@ -4014,7 +4014,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u217.png"}},
+            "normal~":"images/主页2/u166.png"}},
 {
           "id":"83534808056349c98a993a6c097e3cea",
           "label":"",
@@ -4497,7 +4497,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u18.jpg"}},
+            "normal~":"images/主页2/u367.jpg"}},
 {
           "id":"e18fc3983b3a40daa21cc60f62e55d18",
           "label":"",
@@ -4530,7 +4530,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u238.jpg"}},
+            "normal~":"images/主页2/u187.jpg"}},
 {
           "id":"09d1b710ba3a4b57ad100d480b02bbf2",
           "label":"",
@@ -4856,7 +4856,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u36.jpg"}},
+            "normal~":"images/蔬菜宅配/u375.jpg"}},
 {
           "id":"a1a01ae293934ce080e723170b05ea5f",
           "label":"",
@@ -4973,7 +4973,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u217.png"}},
+            "normal~":"images/主页2/u166.png"}},
 {
           "id":"9cdecc6b2afc4e8c9fe131981ae2048f",
           "label":"",

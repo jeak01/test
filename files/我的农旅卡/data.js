@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的农旅卡.html",
-  "generationDate":new Date(1505201943586.85),
+  "generationDate":new Date(1505293691820.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -70,7 +70,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬菜宅配/u0.png"}},
+            "normal~":"images/确认订单/u56.png"}},
 {
           "id":"7cd79df75a1a40d0be2f5e9fd844911f",
           "label":"",
@@ -103,7 +103,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/全部分类/u2.png"}},
+            "normal~":"images/蔬菜宅配/u330.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -565,7 +565,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u18.jpg"}},
+            "normal~":"images/主页2/u367.jpg"}},
 {
           "id":"b11382c4fb554e609abb93b8a491b654",
           "label":"",
@@ -598,7 +598,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u238.jpg"}},
+            "normal~":"images/主页2/u187.jpg"}},
 {
           "id":"01fdcba79cc34ce395b75fd22a36d5a7",
           "label":"",
@@ -1030,7 +1030,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u36.jpg"}},
+            "normal~":"images/蔬菜宅配/u375.jpg"}},
 {
           "id":"20115b1804074cbf8c98f8269662c90b",
           "label":"",
@@ -1147,7 +1147,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u217.png"}},
+            "normal~":"images/主页2/u166.png"}},
 {
           "id":"a013d505bde74098bb79f18e195f010a",
           "label":"",
@@ -1931,7 +1931,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":102.5,
+                        "x":102,
                         "y":27},
                       "size":{
                         "width":20,
@@ -1948,7 +1948,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":102.5,
+                            "x":102,
                             "y":27},
                           "size":{
                             "width":20,
@@ -2012,10 +2012,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 主页",
+                                "description":"在 当前窗口 打开 主页2",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"主页.html",
+                                  "url":"主页2.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -2097,7 +2097,7 @@
                                 "description":"在 当前窗口 打开 蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬菜宅配_1.html",
+                                  "url":"蔬菜宅配_2.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

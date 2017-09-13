@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（初始）.html",
-  "generationDate":new Date(1505201951643.28),
+  "generationDate":new Date(1505293703628.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -502,7 +502,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u213.png"}},
+            "normal~":"images/蔬菜宅配/u5.png"}},
 {
           "id":"fb9f165be27c494787089e2bd6dab152",
           "label":"",
@@ -724,7 +724,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u213.png"}},
+            "normal~":"images/蔬菜宅配/u5.png"}},
 {
           "id":"398b61a0b81e4ad1b9c5c47fd8c06a17",
           "label":"",
@@ -991,7 +991,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u213.png"}},
+            "normal~":"images/蔬菜宅配/u5.png"}},
 {
           "id":"1fce449a46954e9cb339c03d4f379c17",
           "label":"",
@@ -1118,7 +1118,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u213.png"}},
+            "normal~":"images/蔬菜宅配/u5.png"}},
 {
           "id":"0a77d3357d7c4c4a83c26d74a49e7f9c",
           "label":"",
@@ -1264,7 +1264,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u213.png"}},
+            "normal~":"images/蔬菜宅配/u5.png"}},
 {
           "id":"a1ac44ec15184b74ba0867958ff4b6a2",
           "label":"",
@@ -2124,7 +2124,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅卡权益详情/u155.png"}},
+                    "normal~":"images/订单支付页/u30.png"}},
 {
                   "id":"e8f74b4d22714554acfa5c6af7d5ef3d",
                   "label":"",

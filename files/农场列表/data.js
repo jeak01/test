@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场列表.html",
-  "generationDate":new Date(1505201938469.44),
+  "generationDate":new Date(1505293682652.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1215,7 +1215,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u36.jpg"}},
+            "normal~":"images/蔬菜宅配/u375.jpg"}},
 {
           "id":"94397e89a2ea4e63be8113c95175746d",
           "label":"",
@@ -1332,7 +1332,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u217.png"}},
+            "normal~":"images/主页2/u166.png"}},
 {
           "id":"8164aef97ff641f0ae7a7e3b65417127",
           "label":"",
@@ -1524,7 +1524,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u142.jpg"}},
+            "normal~":"images/蔬菜宅配/u399.jpg"}},
 {
           "id":"2a21b8e52b1442749b7dee016a469f0e",
           "label":"",
@@ -1734,7 +1734,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u262.jpg"}},
+            "normal~":"images/主页2/u211.jpg"}},
 {
           "id":"db5a1fb5130f4b7cb500c0343cdcc69f",
           "label":"",
@@ -1886,7 +1886,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u217.png"}},
+            "normal~":"images/主页2/u166.png"}},
 {
           "id":"6174fe093d6244cdb61af73733e0e10f",
           "label":"",
@@ -2005,7 +2005,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u217.png"}},
+            "normal~":"images/主页2/u166.png"}},
 {
           "id":"fbda3903df9744cc9d1edbf60a27e804",
           "label":"",
@@ -2124,7 +2124,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u217.png"}},
+            "normal~":"images/主页2/u166.png"}},
 {
           "id":"c46984e462644fed895d0ea6dc92bfd5",
           "label":"",
@@ -2243,7 +2243,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u217.png"}},
+            "normal~":"images/主页2/u166.png"}},
 {
           "id":"1cb41b52a87d43e781061dd5d59e83f5",
           "label":"",
@@ -2319,7 +2319,220 @@
                       "height":63}},
                   "adaptiveStyles":{
 },
-                  "masterId":"a652b6c4ffdd4c70aeca0ab75b8386af"}]}]}]}},
+                  "masterId":"a652b6c4ffdd4c70aeca0ab75b8386af"}]}]},
+{
+          "id":"f76978927f434856b8d753bbb72e616d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"10px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0099FF,
+              "opacity":1},
+            "location":{
+              "x":144,
+              "y":96},
+            "size":{
+              "width":40,
+              "height":18},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF0099FF},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"61987344513e45db8f4edbd8ab15d0ff",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"10px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF,
+                  "opacity":1},
+                "location":{
+                  "x":144,
+                  "y":96},
+                "size":{
+                  "width":40,
+                  "height":18},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/主页2/u381.png"}},
+{
+          "id":"54cf630e48af40279dfeb1be0a818c98",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"10px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0099FF,
+              "opacity":1},
+            "location":{
+              "x":144.5,
+              "y":166},
+            "size":{
+              "width":40,
+              "height":18},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF0099FF},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a2740c812718475595967d9343718ba8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"10px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF,
+                  "opacity":1},
+                "location":{
+                  "x":144.5,
+                  "y":166},
+                "size":{
+                  "width":40,
+                  "height":18},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/主页2/u381.png"}},
+{
+          "id":"8672625efa904444ade75f3f95f658d7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"10px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0099FF,
+              "opacity":1},
+            "location":{
+              "x":170,
+              "y":382},
+            "size":{
+              "width":40,
+              "height":18},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF0099FF},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"16affac423a14aea83ae8c6edee60b7d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"10px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF,
+                  "opacity":1},
+                "location":{
+                  "x":170,
+                  "y":382},
+                "size":{
+                  "width":40,
+                  "height":18},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/主页2/u381.png"}},
+{
+          "id":"e71d2502f57c49d18a07e065382e0169",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":85},
+            "size":{
+              "width":360,
+              "height":73}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 农场主页",
+                      "target":{
+                        "targetType":"page",
+                        "url":"农场主页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"753e86c7f0b045dc953fffe7ee61173e",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":157},
+            "size":{
+              "width":360,
+              "height":73}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 农场主页",
+                      "target":{
+                        "targetType":"page",
+                        "url":"农场主页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
   "masters":{
     "a652b6c4ffdd4c70aeca0ab75b8386af":{
       "packageId":"a652b6c4ffdd4c70aeca0ab75b8386af",
@@ -2717,7 +2930,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":102.5,
+                        "x":102,
                         "y":27},
                       "size":{
                         "width":20,
@@ -2734,7 +2947,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":102.5,
+                            "x":102,
                             "y":27},
                           "size":{
                             "width":20,
@@ -2798,10 +3011,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 主页",
+                                "description":"在 当前窗口 打开 主页2",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"主页.html",
+                                  "url":"主页2.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -2883,7 +3096,7 @@
                                 "description":"在 当前窗口 打开 蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬菜宅配_1.html",
+                                  "url":"蔬菜宅配_2.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -3239,4 +3452,20 @@
       "e89d265e971e4db3a287a12f25c2f503":{
         "scriptId":"u143"},
       "8de9a287ce1540abbcb6ec1b3c3a6254":{
-        "scriptId":"u144"}}}});
+        "scriptId":"u144"}},
+    "f76978927f434856b8d753bbb72e616d":{
+      "scriptId":"u145"},
+    "61987344513e45db8f4edbd8ab15d0ff":{
+      "scriptId":"u146"},
+    "54cf630e48af40279dfeb1be0a818c98":{
+      "scriptId":"u147"},
+    "a2740c812718475595967d9343718ba8":{
+      "scriptId":"u148"},
+    "8672625efa904444ade75f3f95f658d7":{
+      "scriptId":"u149"},
+    "16affac423a14aea83ae8c6edee60b7d":{
+      "scriptId":"u150"},
+    "e71d2502f57c49d18a07e065382e0169":{
+      "scriptId":"u151"},
+    "753e86c7f0b045dc953fffe7ee61173e":{
+      "scriptId":"u152"}}});

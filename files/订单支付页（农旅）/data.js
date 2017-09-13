@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（农旅）.html",
-  "generationDate":new Date(1505201963162.26),
+  "generationDate":new Date(1505293716552.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -743,7 +743,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/农旅卡权益详情/u155.png"}}]}]},
+                    "normal~":"images/订单支付页/u30.png"}}]}]},
 {
           "id":"8c4efd36ebd54d9dae2942e9f9d4ee3b",
           "label":"",
@@ -869,7 +869,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页/u40.png"}},
+            "normal~":"images/订单支付页_1/u40.png"}},
 {
           "id":"3a2e9fe0caf044edb7535dcf5355f957",
           "label":"",
@@ -902,7 +902,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页_3/u47.png"}},
+            "normal~":"images/订单支付页_4/u47.png"}},
 {
           "id":"959cb30ab4f04ec39245b657901034b9",
           "label":"",
@@ -935,7 +935,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页/u42.png"}}]}},
+            "normal~":"images/订单支付页/u34.png"}}]}},
   "masters":{
 },
   "objectPaths":{

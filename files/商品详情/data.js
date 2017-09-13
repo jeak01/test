@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品详情.html",
-  "generationDate":new Date(1505201934103.51),
+  "generationDate":new Date(1505293672949.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -141,7 +141,7 @@
               "y":399},
             "size":{
               "width":360,
-              "height":61}},
+              "height":71}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -157,11 +157,11 @@
                   "y":399},
                 "size":{
                   "width":360,
-                  "height":61}},
+                  "height":71}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u46.png"}},
+            "normal~":"images/商品详情/u6.png"}},
 {
           "id":"5988d78ad6474af4adb8d691d62ea497",
           "label":"",
@@ -218,8 +218,8 @@
               "color":0xFF666666,
               "opacity":1},
             "location":{
-              "x":190,
-              "y":432},
+              "x":10,
+              "y":441},
             "size":{
               "width":34,
               "height":15}},
@@ -239,8 +239,8 @@
                   "color":0xFF666666,
                   "opacity":1},
                 "location":{
-                  "x":190,
-                  "y":432},
+                  "x":10,
+                  "y":441},
                 "size":{
                   "width":34,
                   "height":15}},
@@ -259,8 +259,8 @@
             "fontSize":"14px",
             "fontWeight":"700",
             "location":{
-              "x":241,
-              "y":415},
+              "x":54,
+              "y":433},
             "size":{
               "width":30,
               "height":30}},
@@ -278,8 +278,8 @@
                 "fontSize":"14px",
                 "fontWeight":"700",
                 "location":{
-                  "x":241,
-                  "y":415},
+                  "x":54,
+                  "y":433},
                 "size":{
                   "width":30,
                   "height":30}},
@@ -296,8 +296,8 @@
           "style":{
             "fontSize":"28px",
             "location":{
-              "x":310,
-              "y":415},
+              "x":123,
+              "y":433},
             "size":{
               "width":30,
               "height":30}},
@@ -313,8 +313,8 @@
               "style":{
                 "fontSize":"28px",
                 "location":{
-                  "x":310,
-                  "y":415},
+                  "x":123,
+                  "y":433},
                 "size":{
                   "width":30,
                   "height":30}},
@@ -331,8 +331,8 @@
           "style":{
             "horizontalAlignment":"center",
             "location":{
-              "x":271,
-              "y":415},
+              "x":84,
+              "y":433},
             "size":{
               "width":39,
               "height":30}},
@@ -608,7 +608,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u200.jpg"}},
+            "normal~":"images/主页3/u124.jpg"}},
 {
           "id":"0e7f4f9caefb487885a980ee6b688931",
           "label":"",
@@ -622,8 +622,8 @@
               "color":0xFF666666,
               "opacity":1},
             "location":{
-              "x":10,
-              "y":432},
+              "x":162,
+              "y":408},
             "size":{
               "width":34,
               "height":14}},
@@ -643,8 +643,8 @@
                   "color":0xFF666666,
                   "opacity":1},
                 "location":{
-                  "x":10,
-                  "y":432},
+                  "x":162,
+                  "y":408},
                 "size":{
                   "width":34,
                   "height":14}},
@@ -696,8 +696,8 @@
           "style":{
             "fontSize":"11px",
             "location":{
-              "x":54,
-              "y":432},
+              "x":206,
+              "y":408},
             "size":{
               "width":25,
               "height":14}},
@@ -713,8 +713,8 @@
               "style":{
                 "fontSize":"11px",
                 "location":{
-                  "x":54,
-                  "y":432},
+                  "x":206,
+                  "y":408},
                 "size":{
                   "width":25,
                   "height":14}},
@@ -861,7 +861,7 @@
                               "description":"在 当前窗口 打开 确认订单",
                               "target":{
                                 "targetType":"page",
-                                "url":"确认订单.html",
+                                "url":"确认订单_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

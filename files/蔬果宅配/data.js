@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果宅配.html",
-  "generationDate":new Date(1505201964826.37),
+  "generationDate":new Date(1505293718388.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1796,7 +1796,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅线路/u191.jpg"}},
+            "normal~":"images/蔬菜宅配/u445.jpg"}},
 {
           "id":"debabd145ff54c86ae242136ee79c71c",
           "label":"",
@@ -1981,7 +1981,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u142.jpg"}},
+            "normal~":"images/蔬菜宅配/u399.jpg"}},
 {
           "id":"184c4f9ef4594926b0eecd38c87738b4",
           "label":"",
@@ -2351,7 +2351,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u262.jpg"}},
+            "normal~":"images/主页2/u211.jpg"}},
 {
           "id":"22a2623913d34ad29bc44ee5bafb5244",
           "label":"",

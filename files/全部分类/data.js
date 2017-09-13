@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"全部分类.html",
-  "generationDate":new Date(1505201931906.52),
+  "generationDate":new Date(1505293669218.67),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -103,7 +103,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/全部分类/u2.png"}},
+            "normal~":"images/蔬菜宅配/u330.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -269,7 +269,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/全部分类/u10.png"}},
+            "normal~":"images/蔬菜宅配/u126.png"}},
 {
           "id":"5e5d9eff6eb84ceeaae280180f565a26",
           "label":"",
@@ -447,7 +447,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/全部分类/u18.png"}},
+            "normal~":"images/蔬菜宅配/u132.png"}},
 {
           "id":"7832b52de45e4a2c9fda91a6cba3265b",
           "label":"",
@@ -494,7 +494,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/全部分类/u18.png"}},
+            "normal~":"images/蔬菜宅配/u132.png"}},
 {
           "id":"b65aaac3db354938aafbd588f5505e1c",
           "label":"",
@@ -541,7 +541,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/全部分类/u18.png"}},
+            "normal~":"images/蔬菜宅配/u132.png"}},
 {
           "id":"ddd9e7e0b13d400f8c85037e097c8a27",
           "label":"",
@@ -589,7 +589,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/全部分类/u24.jpg"}},
+            "normal~":"images/蔬菜宅配/u140.jpg"}},
 {
           "id":"711478bfc956491d95150d2747ee5077",
           "label":"",
@@ -637,7 +637,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u226.png"}},
+            "normal~":"images/主页2/u175.png"}},
 {
           "id":"a1ddeee7ea7043ca98b94d74eeb997cd",
           "label":"",
@@ -685,7 +685,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u246.jpg"}},
+            "normal~":"images/主页2/u195.jpg"}},
 {
           "id":"a5a8b1e2416e4da2befdc2e4818acffc",
           "label":"",
@@ -837,7 +837,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/全部分类/u18.png"}},
+            "normal~":"images/蔬菜宅配/u132.png"}},
 {
           "id":"6a221a8d470e439289940dc3e807e153",
           "label":"",
@@ -1094,7 +1094,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/全部分类/u49.png"}},
+                    "normal~":"images/蔬菜宅配/u510.png"}},
 {
                   "id":"5a4c1956dfd74053837cdc67864d21ae",
                   "label":"",
@@ -1129,7 +1129,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/全部分类/u49.png"}},
+                    "normal~":"images/蔬菜宅配/u510.png"}},
 {
                   "id":"22635bc22a9e4a7ba5f034ed72a5a4cf",
                   "label":"",
@@ -1168,7 +1168,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/全部分类/u53.png"}},
+                    "normal~":"images/蔬菜宅配/u28.png"}},
 {
                   "id":"fa3802ae553d47c69d73e5b31fdc0fbf",
                   "label":"",
@@ -1207,7 +1207,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/全部分类/u53.png"}},
+                    "normal~":"images/蔬菜宅配/u28.png"}},
 {
                   "id":"94e345fecd674b89b6d698c7cb1d2977",
                   "label":"",
@@ -3011,7 +3011,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/全部分类/u143.png"}},
+                    "normal~":"images/蔬菜宅配/u512.png"}},
 {
                   "id":"424fad3def8d428ab63e68330ccd4c5b",
                   "label":"",
@@ -3086,7 +3086,7 @@
                       "description":"在 当前窗口 打开 蔬菜宅配",
                       "target":{
                         "targetType":"page",
-                        "url":"蔬菜宅配.html",
+                        "url":"蔬菜宅配_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -3626,7 +3626,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":102.5,
+                        "x":102,
                         "y":27},
                       "size":{
                         "width":20,
@@ -3643,7 +3643,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":102.5,
+                            "x":102,
                             "y":27},
                           "size":{
                             "width":20,
@@ -3707,10 +3707,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 主页",
+                                "description":"在 当前窗口 打开 主页2",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"主页.html",
+                                  "url":"主页2.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -3792,7 +3792,7 @@
                                 "description":"在 当前窗口 打开 蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬菜宅配_1.html",
+                                  "url":"蔬菜宅配_2.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（蔬果）.html",
-  "generationDate":new Date(1505201963241.32),
+  "generationDate":new Date(1505293716640.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -743,7 +743,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/农旅卡权益详情/u155.png"}}]}]},
+                    "normal~":"images/订单支付页/u30.png"}}]}]},
 {
           "id":"8c4efd36ebd54d9dae2942e9f9d4ee3b",
           "label":"",
@@ -869,7 +869,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页/u40.png"}},
+            "normal~":"images/订单支付页_1/u40.png"}},
 {
           "id":"e018188ea3584dda89c2142d66ed3484",
           "label":"",
@@ -902,7 +902,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页_3/u47.png"}},
+            "normal~":"images/订单支付页_4/u47.png"}},
 {
           "id":"0dae38c212f746c4afe5baba64b83cd3",
           "label":"",
@@ -935,7 +935,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页/u42.png"}}]}},
+            "normal~":"images/订单支付页/u34.png"}}]}},
   "masters":{
 },
   "objectPaths":{

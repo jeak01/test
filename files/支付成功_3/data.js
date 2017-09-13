@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功_3.html",
-  "generationDate":new Date(1505201941167.24),
+  "generationDate":new Date(1505293676899.76),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"1caf7887d8e94e56907ea652b8e28c1e",
+    "packageId":"96a19ebf0a6f40cbbd93e4f9a19c6884",
     "type":"Axure:Page",
     "name":"支付成功",
     "notes":{
@@ -30,7 +30,40 @@
     "adaptiveStyles":{
 },
     "interactionMap":{
-},
+      "onLoad":{
+        "description":"OnLoad",
+        "cases":[{
+            "description":"用例 1<br> (If 值于 payFrom 等于 &quot;newPackage&quot;)",
+            "isNewIfGroup":false,
+            "condition":{
+              "exprType":"binaryOp",
+              "op":"==",
+              "leftExpr":{
+                "exprType":"fcall",
+                "functionName":"GetGlobalVariableValue",
+                "arguments":[{
+                    "exprType":"globalVariableLiteral",
+                    "variableName":"payFrom"}]},
+              "rightExpr":{
+                "exprType":"stringLiteral",
+                "value":"newPackage",
+                "stos":[]}},
+            "actions":[{
+                "action":"setPanelState",
+                "description":"设置 (动态面板) to 状态2",
+                "panelsToStates":[{
+                    "panelPath":["2e926c064b5f4ce389b1f0d0c54c343e"],
+                    "stateInfo":{
+                      "setStateType":"diagram",
+                      "stateNumber":2,
+                      "stateValue":{
+                        "exprType":"stringLiteral",
+                        "value":"1",
+                        "stos":[]},
+                      "loop":false,
+                      "showWhenSet":false,
+                      "options":{
+                        "compress":false}}}]}]}]}},
     "diagram":{
       "objects":[{
           "id":"51c8fa84a4664c7dab516ee1a5ba4ce6",
@@ -259,7 +292,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/支付成功/u10.png"}},
+            "normal~":"images/蔬菜宅配/u253.png"}},
 {
           "id":"21163552684e464a923121757a0d1de4",
           "label":"",
@@ -344,61 +377,183 @@
           "images":{
             "normal~":"images/支付成功/u14.png"}},
 {
-          "id":"289aab97651f4349a5ed7c0adb8488b1",
+          "id":"2e926c064b5f4ce389b1f0d0c54c343e",
           "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
           "visible":true,
           "style":{
-            "fill":{
-              "fillType":"solid",
-              "color":0xFFDDDDDD},
             "location":{
               "x":182,
               "y":180},
             "size":{
-              "width":117,
-              "height":40},
-            "cornerRadiusTopLeft":"5"},
+              "width":10,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"05369500dfc74a2b88036e4497403aa1",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"289aab97651f4349a5ed7c0adb8488b1",
+                  "label":"",
+                  "parentDynamicPanel":"2e926c064b5f4ce389b1f0d0c54c343e",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFDDDDDD},
+                    "size":{
+                      "width":117,
+                      "height":40},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"4d46d80498124e46925b84e20ce00b81",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"2e926c064b5f4ce389b1f0d0c54c343e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFDDDDDD},
+                        "size":{
+                          "width":117,
+                          "height":40},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 我的农旅卡",
+                              "target":{
+                                "targetType":"page",
+                                "url":"我的农旅卡.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/支付成功/u17.png"}}]},
+{
+              "id":"0a0ec34e5b374c648cb24d0345a2032f",
+              "label":"状态2",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"3c0c70fb9a424a1bb4f04ede0d901c66",
+                  "label":"",
+                  "parentDynamicPanel":"2e926c064b5f4ce389b1f0d0c54c343e",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFDDDDDD},
+                    "size":{
+                      "width":117,
+                      "height":40},
+                    "cornerRadiusTopLeft":"5"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a096680bbe55419a91e6a12da7c31010",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"2e926c064b5f4ce389b1f0d0c54c343e",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFDDDDDD},
+                        "size":{
+                          "width":117,
+                          "height":40},
+                        "cornerRadiusTopLeft":"5"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setFunction",
+                              "description":"设置 值于 payFrom = &quot;none&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetGlobalVariableValue",
+                                    "arguments":[{
+                                        "exprType":"globalVariableLiteral",
+                                        "variableName":"payFrom"},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"none",
+                                        "stos":[]}]}]}},
+{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 全部订单",
+                              "target":{
+                                "targetType":"page",
+                                "url":"全部订单_1.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/支付成功/u17.png"}}]}]},
+{
+          "id":"9adc94a5d07b4c7ab9cca68880bbfb60",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":264},
+            "size":{
+              "width":360,
+              "height":156}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"4d46d80498124e46925b84e20ce00b81",
+              "id":"aa21881cc110419f94f7c7ef1dcdf306",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFFDDDDDD},
                 "location":{
-                  "x":182,
-                  "y":180},
+                  "x":0,
+                  "y":264},
                 "size":{
-                  "width":117,
-                  "height":40},
-                "cornerRadiusTopLeft":"5"},
+                  "width":360,
+                  "height":156}},
               "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 订单详情",
-                      "target":{
-                        "targetType":"page",
-                        "url":"订单详情_1.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
           "images":{
-            "normal~":"images/支付成功/u17.png"}}]}},
+            "normal~":"images/主页2/u9.jpg"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -434,7 +589,17 @@
       "scriptId":"u14"},
     "324249df972247b2ac1c3f14b218acb2":{
       "scriptId":"u15"},
-    "289aab97651f4349a5ed7c0adb8488b1":{
+    "2e926c064b5f4ce389b1f0d0c54c343e":{
       "scriptId":"u16"},
+    "289aab97651f4349a5ed7c0adb8488b1":{
+      "scriptId":"u17"},
     "4d46d80498124e46925b84e20ce00b81":{
-      "scriptId":"u17"}}});
+      "scriptId":"u18"},
+    "3c0c70fb9a424a1bb4f04ede0d901c66":{
+      "scriptId":"u19"},
+    "a096680bbe55419a91e6a12da7c31010":{
+      "scriptId":"u20"},
+    "9adc94a5d07b4c7ab9cca68880bbfb60":{
+      "scriptId":"u21"},
+    "aa21881cc110419f94f7c7ef1dcdf306":{
+      "scriptId":"u22"}}});

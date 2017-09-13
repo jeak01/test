@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新人专享套餐.html",
-  "generationDate":new Date(1505201947218.25),
+  "generationDate":new Date(1505293697487.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -714,7 +714,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/新人专享套餐/u32.png"}},
+            "normal~":"images/限时特惠详情页/u6.png"}},
 {
           "id":"baf17917a35d404ca576e7cff6c8fbbf",
           "label":"",
@@ -873,7 +873,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/新人专享套餐/u32.png"}},
+            "normal~":"images/限时特惠详情页/u6.png"}},
 {
           "id":"19feac9cc9594870ad5aaf0f85c6a888",
           "label":"",
@@ -1032,7 +1032,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/新人专享套餐/u32.png"}},
+            "normal~":"images/限时特惠详情页/u6.png"}},
 {
           "id":"b8285e27bf054c3ab282b503fb348358",
           "label":"",
@@ -1191,7 +1191,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/新人专享套餐/u32.png"}},
+            "normal~":"images/限时特惠详情页/u6.png"}},
 {
           "id":"4d2602701e584e80b478cecf54c6d58b",
           "label":"",
@@ -3943,7 +3943,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u217.png"}},
+            "normal~":"images/主页2/u166.png"}},
 {
           "id":"609ec88b904f41a89d4d6f3c91ec5218",
           "label":"",
@@ -5118,7 +5118,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u155.png"}},
+            "normal~":"images/订单支付页/u30.png"}},
 {
           "id":"e1f8f2ddaf974fdca462e705f693e0df",
           "label":"",
@@ -5256,7 +5256,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅卡权益详情/u155.png"}},
+                    "normal~":"images/订单支付页/u30.png"}},
 {
                   "id":"0f490ea23e294454a8c06c4e41199797",
                   "label":"",
@@ -5375,7 +5375,7 @@
                               "description":"在 当前窗口 打开 确认订单",
                               "target":{
                                 "targetType":"page",
-                                "url":"确认订单_3.html",
+                                "url":"确认订单_4.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

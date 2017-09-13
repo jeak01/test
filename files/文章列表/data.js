@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章列表.html",
-  "generationDate":new Date(1505201942362.03),
+  "generationDate":new Date(1505293690159.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -516,7 +516,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅线路/u205.png"}},
+            "normal~":"images/主页2/u363.png"}},
 {
           "id":"accf6fae13c84472b3c2a5bced8a1bea",
           "label":"",
@@ -868,7 +868,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅线路/u205.png"}},
+            "normal~":"images/主页2/u363.png"}},
 {
           "id":"195739917db54daaae9f7722817a3013",
           "label":"",
@@ -1220,7 +1220,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅线路/u205.png"}},
+            "normal~":"images/主页2/u363.png"}},
 {
           "id":"3832f05fffaf42b48ddb8db7b84c43d1",
           "label":"",
@@ -1597,7 +1597,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅线路/u205.png"}},
+            "normal~":"images/主页2/u363.png"}},
 {
           "id":"8eb9c130a93845349eec20efc6b2cc29",
           "label":"",
@@ -1949,7 +1949,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅线路/u205.png"}},
+            "normal~":"images/主页2/u363.png"}},
 {
           "id":"630fda3a66a54ebd887e24188bcf9a79",
           "label":"",
@@ -2301,7 +2301,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅线路/u205.png"}},
+            "normal~":"images/主页2/u363.png"}},
 {
           "id":"365ca85e2a7d4b4d8407b35ec093737d",
           "label":"",
@@ -2895,7 +2895,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":102.5,
+                        "x":102,
                         "y":27},
                       "size":{
                         "width":20,
@@ -2912,7 +2912,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":102.5,
+                            "x":102,
                             "y":27},
                           "size":{
                             "width":20,
@@ -2976,10 +2976,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 主页",
+                                "description":"在 当前窗口 打开 主页2",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"主页.html",
+                                  "url":"主页2.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -3061,7 +3061,7 @@
                                 "description":"在 当前窗口 打开 蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬菜宅配_1.html",
+                                  "url":"蔬菜宅配_2.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

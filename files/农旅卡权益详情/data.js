@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡权益详情.html",
-  "generationDate":new Date(1505201933005.78),
+  "generationDate":new Date(1505293670872.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2113,7 +2113,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u18.jpg"}},
+            "normal~":"images/主页2/u367.jpg"}},
 {
           "id":"7b09ba85565a4ef99441556115f48520",
           "label":"",
@@ -2261,7 +2261,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u238.jpg"}},
+            "normal~":"images/主页2/u187.jpg"}},
 {
           "id":"2cbb1e562bce4304a55d21fd2dc92afc",
           "label":"",
@@ -2415,7 +2415,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u284.jpg"}},
+            "normal~":"images/主页2/u229.jpg"}},
 {
           "id":"70580337c2cf4289b4c0321192f0ab2d",
           "label":"",
@@ -2456,7 +2456,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u217.png"}},
+            "normal~":"images/主页2/u166.png"}},
 {
           "id":"046f328946a34d668b52f762df06f627",
           "label":"",
@@ -3049,7 +3049,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅卡权益详情/u155.png"}},
+                    "normal~":"images/订单支付页/u30.png"}},
 {
                   "id":"0f490ea23e294454a8c06c4e41199797",
                   "label":"",
@@ -3174,7 +3174,7 @@
                               "description":"在 当前窗口 打开 订单支付页",
                               "target":{
                                 "targetType":"page",
-                                "url":"订单支付页_1.html",
+                                "url":"订单支付页_2.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

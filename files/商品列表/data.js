@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表.html",
-  "generationDate":new Date(1505201933940.4),
+  "generationDate":new Date(1505293672787.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1057,7 +1057,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u180.jpg"}},
+            "normal~":"images/主页3/u104.jpg"}},
 {
           "id":"93aa5a16449449ee9a8a97fd0ec10411",
           "label":"",
@@ -1090,7 +1090,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u311.jpg"}},
+            "normal~":"images/主页2/u256.jpg"}},
 {
           "id":"d20381cc1d284e5386358f3cb8eb5941",
           "label":"",
@@ -1360,7 +1360,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u311.jpg"}},
+            "normal~":"images/主页2/u256.jpg"}},
 {
           "id":"8e409dfe333f4bdeb6f05cef67c7aad3",
           "label":"",
@@ -1630,7 +1630,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u311.jpg"}},
+            "normal~":"images/主页2/u256.jpg"}},
 {
           "id":"b58422a4a8644133b63573d6d39e33be",
           "label":"",
@@ -1900,7 +1900,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u311.jpg"}},
+            "normal~":"images/主页2/u256.jpg"}},
 {
           "id":"2ce2757bb3e94101ade0a859a25c4392",
           "label":"",
@@ -2131,7 +2131,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u200.jpg"}},
+            "normal~":"images/主页3/u124.jpg"}},
 {
           "id":"63f662dc5e3e4cd2bc1f9349ff278a15",
           "label":"",
@@ -2630,7 +2630,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":102.5,
+                        "x":102,
                         "y":27},
                       "size":{
                         "width":20,
@@ -2647,7 +2647,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":102.5,
+                            "x":102,
                             "y":27},
                           "size":{
                             "width":20,
@@ -2711,10 +2711,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 主页",
+                                "description":"在 当前窗口 打开 主页2",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"主页.html",
+                                  "url":"主页2.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -2796,7 +2796,7 @@
                                 "description":"在 当前窗口 打开 蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬菜宅配_1.html",
+                                  "url":"蔬菜宅配_2.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

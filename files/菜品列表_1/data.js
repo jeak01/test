@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"菜品列表_1.html",
-  "generationDate":new Date(1505201961072.87),
+  "generationDate":new Date(1505293714387.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -156,7 +156,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u416.png"}},
+            "normal~":"images/主页2/u349.png"}},
 {
           "id":"5b5cfe99197147e0b670e7698380e85e",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单确认页.html",
-  "generationDate":new Date(1505201963023.17),
+  "generationDate":new Date(1505293716459),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -251,7 +251,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u166.png"}},
+            "normal~":"images/主页3/u90.png"}},
 {
           "id":"0df50d94c07b48a6a85784ea1d1d5489",
           "label":"",
@@ -382,7 +382,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u166.png"}},
+            "normal~":"images/主页3/u90.png"}},
 {
           "id":"9e9e857ca0164d06affa748e59a8f598",
           "label":"",
@@ -513,7 +513,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u166.png"}},
+            "normal~":"images/主页3/u90.png"}},
 {
           "id":"d1f785dc9ece4b048fe2a41672bcc281",
           "label":"",
@@ -644,7 +644,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u166.png"}},
+            "normal~":"images/主页3/u90.png"}},
 {
           "id":"8d7dd4fd2089443bbde854c4f6e904ad",
           "label":"",
@@ -1067,7 +1067,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u213.png"}},
+            "normal~":"images/蔬菜宅配/u5.png"}},
 {
           "id":"c97398ef12af4a0faf4bcdfc0d7a814d",
           "label":"",
@@ -1552,7 +1552,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u213.png"}},
+            "normal~":"images/蔬菜宅配/u5.png"}},
 {
           "id":"df862cc03401476586fb8a6c9cce680d",
           "label":"",
@@ -1698,7 +1698,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u213.png"}},
+            "normal~":"images/蔬菜宅配/u5.png"}},
 {
           "id":"5e903e77262342cf9c3cfefa24133ac9",
           "label":"",
@@ -1958,7 +1958,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单（农旅）/u26.png"}},
+            "normal~":"images/限时特惠详情页/u55.png"}},
 {
           "id":"2ed028dc076d4275be075ea660070b38",
           "label":"",

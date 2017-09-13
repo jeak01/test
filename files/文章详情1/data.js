@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章详情1.html",
-  "generationDate":new Date(1505201941983.78),
+  "generationDate":new Date(1505293689480.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -430,7 +430,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅线路/u205.png"}},
+            "normal~":"images/主页2/u363.png"}},
 {
           "id":"d3406da983db46d899f7e9af25abbd0a",
           "label":"",
@@ -658,7 +658,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u213.png"}},
+            "normal~":"images/蔬菜宅配/u5.png"}},
 {
           "id":"84e8c2df97ad48b99d29b4b8ca23634c",
           "label":"",
@@ -847,7 +847,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u213.png"}},
+            "normal~":"images/蔬菜宅配/u5.png"}},
 {
           "id":"15ab1fd4bedd47c194f1f929f537095a",
           "label":"",
@@ -993,7 +993,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u213.png"}},
+            "normal~":"images/蔬菜宅配/u5.png"}},
 {
           "id":"d0dc2dbc11b74391a76393cb95b932ab",
           "label":"",
@@ -1139,7 +1139,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页3/u213.png"}},
+            "normal~":"images/蔬菜宅配/u5.png"}},
 {
           "id":"260fdff1ec9d411eb1b65cf136f2b846",
           "label":"",

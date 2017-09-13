@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"时令市场.html",
-  "generationDate":new Date(1505201933653.21),
+  "generationDate":new Date(1505293672543.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -496,7 +496,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u180.jpg"}},
+            "normal~":"images/主页3/u104.jpg"}},
 {
           "id":"b522e5223a35447d9354ad6ba4d44dca",
           "label":"",
@@ -652,7 +652,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u188.png"}},
+            "normal~":"images/主页3/u112.png"}},
 {
           "id":"d1d69244f226426cb3d2d7a1f927360a",
           "label":"",
@@ -876,7 +876,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u200.jpg"}},
+            "normal~":"images/主页3/u124.jpg"}},
 {
           "id":"5d8616454e9c4108bbda1cdf2dace1c7",
           "label":"",
@@ -1755,7 +1755,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u226.png"}},
+            "normal~":"images/主页2/u175.png"}},
 {
           "id":"29b885f9d99940cea741ce7ff08ed47f",
           "label":"",
@@ -1995,7 +1995,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u238.jpg"}},
+            "normal~":"images/主页2/u187.jpg"}},
 {
           "id":"6b5b25d880f54df8a9bd7e4fe6758020",
           "label":"",
@@ -2235,7 +2235,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u246.jpg"}},
+            "normal~":"images/主页2/u195.jpg"}},
 {
           "id":"52751869bc834674885a32d348d33ce6",
           "label":"",
@@ -2475,7 +2475,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u311.jpg"}},
+            "normal~":"images/主页2/u256.jpg"}},
 {
           "id":"684c5468ac51434c9c8158bb4d0aa528",
           "label":"",
@@ -4174,7 +4174,7 @@
                     "visible":true,
                     "style":{
                       "location":{
-                        "x":102.5,
+                        "x":102,
                         "y":27},
                       "size":{
                         "width":20,
@@ -4191,7 +4191,7 @@
                         "visible":true,
                         "style":{
                           "location":{
-                            "x":102.5,
+                            "x":102,
                             "y":27},
                           "size":{
                             "width":20,
@@ -4255,10 +4255,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 主页",
+                                "description":"在 当前窗口 打开 主页2",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"主页.html",
+                                  "url":"主页2.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -4340,7 +4340,7 @@
                                 "description":"在 当前窗口 打开 蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬菜宅配_1.html",
+                                  "url":"蔬菜宅配_2.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
