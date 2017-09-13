@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"待支付.html",
-  "generationDate":new Date(1505295159025.74),
+  "generationDate":new Date(1505295760993.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -569,7 +569,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬菜宅配/u330.png"}},
+            "normal~":"images/蔬菜宅配/u331.png"}},
 {
           "id":"d821fb6a102c4637bd47d1b3be4e00c4",
           "label":"",
@@ -869,7 +869,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬菜宅配/u330.png"}},
+            "normal~":"images/蔬菜宅配/u331.png"}},
 {
           "id":"18a0b642fba64490bb4e27ba48230b70",
           "label":"",

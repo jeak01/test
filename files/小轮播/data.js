@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"小轮播.html",
-  "generationDate":new Date(1505295184842.87),
+  "generationDate":new Date(1505295787573.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

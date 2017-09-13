@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章列表_1.html",
-  "generationDate":new Date(1505295160041.42),
+  "generationDate":new Date(1505295761971.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -947,7 +947,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬菜宅配/u435.JPG"}},
+            "normal~":"images/蔬菜宅配/u436.JPG"}},
 {
           "id":"97c83e17cc7a4406a1509b42e9666b34",
           "label":"",

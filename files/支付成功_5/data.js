@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付成功_5.html",
-  "generationDate":new Date(1505295168571.08),
+  "generationDate":new Date(1505295770895.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -259,7 +259,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬菜宅配/u253.png"}},
+            "normal~":"images/蔬菜宅配/u254.png"}},
 {
           "id":"21163552684e464a923121757a0d1de4",
           "label":"",

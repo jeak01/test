@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单（农旅）.html",
-  "generationDate":new Date(1505295151738.91),
+  "generationDate":new Date(1505295753953.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1529,7 +1529,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蔬菜宅配/u510.png"}},
+                    "normal~":"images/蔬菜宅配/u511.png"}},
 {
                   "id":"2846ba23088a4a348b0ffe8c6aab5364",
                   "label":"",
@@ -1564,7 +1564,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蔬菜宅配/u510.png"}},
+                    "normal~":"images/蔬菜宅配/u511.png"}},
 {
                   "id":"389a97ce44d947b38bbd1d1d5ead694f",
                   "label":"",
@@ -3324,7 +3324,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/蔬菜宅配/u512.png"}},
+                    "normal~":"images/蔬菜宅配/u513.png"}},
 {
                   "id":"c603fd0aae8f493fa80c1b46ad2ebd0e",
                   "label":"",

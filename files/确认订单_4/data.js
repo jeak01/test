@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单_4.html",
-  "generationDate":new Date(1505295162582.1),
+  "generationDate":new Date(1505295764600.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1208,7 +1208,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蔬菜宅配/u510.png"}},
+                    "normal~":"images/蔬菜宅配/u511.png"}},
 {
                   "id":"2eec6f497fca46618a6586b169b336b5",
                   "label":"",
@@ -1243,7 +1243,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蔬菜宅配/u510.png"}},
+                    "normal~":"images/蔬菜宅配/u511.png"}},
 {
                   "id":"21f480f434af43ba8698fb161e2c7964",
                   "label":"",
@@ -3125,7 +3125,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/蔬菜宅配/u512.png"}},
+                    "normal~":"images/蔬菜宅配/u513.png"}},
 {
                   "id":"00c24261c4a046fb88fe1f30a6f0a614",
                   "label":"",
@@ -3243,7 +3243,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蔬菜宅配/u510.png"}},
+                    "normal~":"images/蔬菜宅配/u511.png"}},
 {
                   "id":"2af391cc177648519b95fa2b802d3910",
                   "label":"",
@@ -3278,7 +3278,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蔬菜宅配/u510.png"}},
+                    "normal~":"images/蔬菜宅配/u511.png"}},
 {
                   "id":"826d3d6503d54c0a89decd635f82fe1b",
                   "label":"",
@@ -5038,7 +5038,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/蔬菜宅配/u512.png"}},
+                    "normal~":"images/蔬菜宅配/u513.png"}},
 {
                   "id":"5594ad44144143108086e90972bc135b",
                   "label":"",

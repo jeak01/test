@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单_5.html",
-  "generationDate":new Date(1505295168057.73),
+  "generationDate":new Date(1505295770382.57),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2325,7 +2325,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蔬菜宅配/u510.png"}},
+                    "normal~":"images/蔬菜宅配/u511.png"}},
 {
                   "id":"a3be53bff2f04f059c064cc7b2ff6211",
                   "label":"",
@@ -2360,7 +2360,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/蔬菜宅配/u510.png"}},
+                    "normal~":"images/蔬菜宅配/u511.png"}},
 {
                   "id":"d18cf9117eca4de387f436ce38d1c294",
                   "label":"",
@@ -4120,7 +4120,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/蔬菜宅配/u512.png"}},
+                    "normal~":"images/蔬菜宅配/u513.png"}},
 {
                   "id":"50c54f649b904e1c909dea8e9462ca9b",
                   "label":"",
