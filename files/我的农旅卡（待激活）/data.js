@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的农旅卡（待激活）.html",
-  "generationDate":new Date(1505293690874.03),
+  "generationDate":new Date(1505295157563.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1027,7 +1027,7 @@
                                 "description":"在 当前窗口 打开 蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬菜宅配_2.html",
+                                  "url":"蔬菜宅配.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心主页.html",
-  "generationDate":new Date(1505293690715.93),
+  "generationDate":new Date(1505295157442.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3556,7 +3556,7 @@
                                 "description":"在 当前窗口 打开 蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬菜宅配_2.html",
+                                  "url":"蔬菜宅配.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},

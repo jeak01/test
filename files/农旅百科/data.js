@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅百科.html",
-  "generationDate":new Date(1505293688427.41),
+  "generationDate":new Date(1505295156253.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3435,7 +3435,7 @@
                                 "description":"在 当前窗口 打开 蔬菜宅配",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"蔬菜宅配_2.html",
+                                  "url":"蔬菜宅配.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
