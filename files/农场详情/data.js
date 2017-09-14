@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情.html",
-  "generationDate":new Date(1505295782771.79),
+  "generationDate":new Date(1505384748179.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1165,7 +1165,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_5.html",
+                        "url":"线路详情_4.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

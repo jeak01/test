@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付失败_1.html",
-  "generationDate":new Date(1505295780615.36),
+  "generationDate":new Date(1505384745775.8),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -566,7 +566,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u200.png"}},
+            "normal~":"images/线路详情/u82.png"}},
 {
           "id":"e2ce1ca14b324f7d868ff5538b758bcf",
           "label":"",
@@ -642,7 +642,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u214.jpg"}},
+            "normal~":"images/线路详情/u96.jpg"}},
 {
           "id":"1736bf5fb4cb4799af718c1ded901dd3",
           "label":"",
@@ -755,7 +755,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u200.png"}},
+            "normal~":"images/线路详情/u82.png"}},
 {
           "id":"842c4501924748a5944ed1d21796bebc",
           "label":"",
@@ -788,7 +788,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u222.jpg"}},
+            "normal~":"images/农旅线路/u316.jpg"}},
 {
           "id":"7a86f844fa594a108389d0ed8b0f7256",
           "label":"",
@@ -901,7 +901,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u200.png"}},
+            "normal~":"images/线路详情/u82.png"}},
 {
           "id":"e47c89d1d5524a969d73057ed41c5074",
           "label":"",
@@ -934,7 +934,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u230.jpg"}},
+            "normal~":"images/农旅线路/u318.jpg"}},
 {
           "id":"f19b3d2f71fb4d3597688f813c9143c6",
           "label":"",
@@ -1035,7 +1035,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_3.html",
+                        "url":"线路详情_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1065,7 +1065,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_6.html",
+                        "url":"线路详情_5.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -1095,7 +1095,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_4.html",
+                        "url":"线路详情_3.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

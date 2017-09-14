@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅线路.html",
-  "generationDate":new Date(1505295756175.15),
+  "generationDate":new Date(1505384717671.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -429,7 +429,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/线路详情/u167.jpg"}},
+                    "normal~":"images/农场主页/u292.jpg"}},
 {
                   "id":"db48fbcf30c441eb9658ccf3224dbb0a",
                   "label":"",
@@ -1695,7 +1695,7 @@
                               "description":"在 当前窗口 打开 线路详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情_1.html",
+                                "url":"线路详情.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true},
@@ -6756,12 +6756,12 @@
                               "description":"在 当前窗口 打开 线路详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情_1.html",
+                                "url":"线路详情.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/线路详情/u222.jpg"}}]},
+                    "normal~":"images/农旅线路/u316.jpg"}}]},
 {
               "id":"1dfbbd6dbed54958b58613f312e81d9a",
               "label":"状态3",
@@ -6804,12 +6804,12 @@
                               "description":"在 当前窗口 打开 线路详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情_1.html",
+                                "url":"线路详情.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/线路详情/u230.jpg"}}]},
+                    "normal~":"images/农旅线路/u318.jpg"}}]},
 {
               "id":"065b12222ce24cb3b7fce4b0c40abddd",
               "label":"状态4",
@@ -6852,7 +6852,7 @@
                               "description":"在 当前窗口 打开 线路详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情_1.html",
+                                "url":"线路详情.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

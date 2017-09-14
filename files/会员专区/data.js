@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员专区.html",
-  "generationDate":new Date(1505295765227.16),
+  "generationDate":new Date(1505384730793.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1339,7 +1339,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/线路详情/u91.JPG"}},
+                            "normal~":"images/会员专区/u62.JPG"}},
 {
                           "id":"e317f2563ebf40ab8373032e625d169f",
                           "label":"",
@@ -1981,7 +1981,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_3.html",
+                        "url":"线路详情_2.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2158,7 +2158,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_6.html",
+                        "url":"线路详情_5.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2343,7 +2343,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_4.html",
+                        "url":"线路详情_3.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

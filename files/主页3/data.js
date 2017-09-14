@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页3.html",
-  "generationDate":new Date(1505295747153.17),
+  "generationDate":new Date(1505384705701.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -364,7 +364,7 @@
                               "description":"在 当前窗口 打开 线路详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情_4.html",
+                                "url":"线路详情_3.html",
                                 "includeVariables":true},
                               "linkType":"current"},
 {
@@ -420,7 +420,7 @@
                               "description":"在 当前窗口 打开 线路详情",
                               "target":{
                                 "targetType":"page",
-                                "url":"线路详情_3.html",
+                                "url":"线路详情_2.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -5659,7 +5659,7 @@
                       "description":"在 当前窗口 打开 线路详情",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情_1.html",
+                        "url":"线路详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
@@ -5686,10 +5686,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 线路详情",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"线路详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

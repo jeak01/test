@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章详情.html",
-  "generationDate":new Date(1505295758403.63),
+  "generationDate":new Date(1505384721896.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -739,7 +739,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u200.png"}},
+            "normal~":"images/线路详情/u82.png"}},
 {
           "id":"00448f98c74a4ea3aadab8baab2a987e",
           "label":"",
@@ -815,7 +815,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u204.jpg"}},
+            "normal~":"images/线路详情/u86.jpg"}},
 {
           "id":"8a3efbd7c6194810ac6a681e937a7bec",
           "label":"",
@@ -928,7 +928,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u200.png"}},
+            "normal~":"images/线路详情/u82.png"}},
 {
           "id":"7e72dd85daab44149d65090cf2f814fd",
           "label":"",
@@ -1004,7 +1004,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u214.jpg"}},
+            "normal~":"images/线路详情/u96.jpg"}},
 {
           "id":"4259b019ec1f4cdfb5bd0e936df2cb0a",
           "label":"",
@@ -1117,7 +1117,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u200.png"}},
+            "normal~":"images/线路详情/u82.png"}},
 {
           "id":"e428fd01a8f741b8b775c379f7b7e365",
           "label":"",
@@ -1150,7 +1150,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u222.jpg"}},
+            "normal~":"images/农旅线路/u316.jpg"}},
 {
           "id":"0a87cc1c60334c36a96e57db777ca2d3",
           "label":"",
@@ -1263,7 +1263,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u200.png"}},
+            "normal~":"images/线路详情/u82.png"}},
 {
           "id":"cb9c9fa714444a63b3dfaa170a97ec32",
           "label":"",
@@ -1296,7 +1296,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u230.jpg"}},
+            "normal~":"images/农旅线路/u318.jpg"}},
 {
           "id":"81aa2ad68a9c4e338adfc54fcca96928",
           "label":"",

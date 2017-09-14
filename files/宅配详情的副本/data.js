@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"宅配详情的副本.html",
-  "generationDate":new Date(1505295771785.51),
+  "generationDate":new Date(1505384737496.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4725,7 +4725,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u200.png"}},
+            "normal~":"images/线路详情/u82.png"}},
 {
           "id":"1d40f458b00748fea7a4c90ff90f7f13",
           "label":"",
@@ -4871,7 +4871,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u200.png"}},
+            "normal~":"images/线路详情/u82.png"}},
 {
           "id":"3dd7e84e6c8642e88a698624d3fd9a40",
           "label":"",
@@ -4984,7 +4984,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u200.png"}},
+            "normal~":"images/线路详情/u82.png"}},
 {
           "id":"5964b0cbe62c452283a0244b26c58f85",
           "label":"",
@@ -5692,7 +5692,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/线路详情/u194.png"}},
+                    "normal~":"images/线路详情_1/u194.png"}},
 {
                   "id":"bfa3900cdb5e4034b4f6b1663e7e5ee2",
                   "label":"",
@@ -5974,7 +5974,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/线路详情_2/u206.png"}}]}]}]}},
+                    "normal~":"images/线路详情_1/u206.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

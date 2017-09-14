@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章列表_1.html",
-  "generationDate":new Date(1505295761971.99),
+  "generationDate":new Date(1505384726405.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -580,7 +580,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/线路详情/u77.png"}},
+            "normal~":"images/农场列表/u67.JPG"}},
 {
           "id":"82dffff66b964eb992e026fc3c8e924f",
           "label":"",

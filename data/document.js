@@ -189,10 +189,6 @@
             "type":"Wireframe",
             "url":"确认订单（农旅）.html"}]},
 {
-        "pageName":"线路详情",
-        "type":"Wireframe",
-        "url":"线路详情.html"},
-{
         "pageName":"农场列表",
         "type":"Wireframe",
         "url":"农场列表.html",
@@ -207,7 +203,7 @@
         "children":[{
             "pageName":"线路详情",
             "type":"Wireframe",
-            "url":"线路详情_1.html"},
+            "url":"线路详情.html"},
 {
             "pageName":"确认订单",
             "type":"Wireframe",
@@ -375,6 +371,10 @@
                 "children":[{
                     "pageName":"线路详情",
                     "type":"Wireframe",
+                    "url":"线路详情_1.html"},
+{
+                    "pageName":"线路详情",
+                    "type":"Wireframe",
                     "url":"线路详情_2.html"},
 {
                     "pageName":"线路详情",
@@ -383,11 +383,7 @@
 {
                     "pageName":"线路详情",
                     "type":"Wireframe",
-                    "url":"线路详情_4.html"},
-{
-                    "pageName":"线路详情",
-                    "type":"Wireframe",
-                    "url":"线路详情_5.html"}]},
+                    "url":"线路详情_4.html"}]},
 {
                 "pageName":"组合套餐（初始）",
                 "type":"Wireframe",
@@ -711,7 +707,7 @@
 {
         "pageName":"线路详情",
         "type":"Wireframe",
-        "url":"线路详情_6.html"}]},
+        "url":"线路详情_5.html"}]},
   "globalVariables":{
     "onloadvariable":"",
     "status":"",

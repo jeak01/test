@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅百科.html",
-  "generationDate":new Date(1505295758102.43),
+  "generationDate":new Date(1505384721444.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -588,7 +588,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/线路详情/u214.jpg"}}]},
+                    "normal~":"images/线路详情/u96.jpg"}}]},
 {
               "id":"046ce99b3ddd4e43a631296057da07b6",
               "label":"状态2",
