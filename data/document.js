@@ -65,13 +65,13 @@
             "type":"Wireframe",
             "url":"全部分类.html"},
 {
-            "pageName":"农旅卡列表",
+            "pageName":"选择指定农场",
             "type":"Wireframe",
-            "url":"农旅卡列表.html",
+            "url":"选择指定农场.html",
             "children":[{
-                "pageName":"农旅卡权益详情",
+                "pageName":"农场体验游详情",
                 "type":"Wireframe",
-                "url":"农旅卡权益详情.html"},
+                "url":"农场体验游详情.html"},
 {
                 "pageName":"蔬菜箱详情",
                 "type":"Wireframe",
@@ -87,7 +87,11 @@
 {
                 "pageName":"农旅卡主题页",
                 "type":"Wireframe",
-                "url":"农旅卡主题页.html"}]},
+                "url":"农旅卡主题页.html"},
+{
+                "pageName":"订单支付页",
+                "type":"Wireframe",
+                "url":"订单支付页_1.html"}]},
 {
             "pageName":"时令市场",
             "type":"Wireframe",
@@ -111,7 +115,7 @@
 {
                 "pageName":"订单支付页",
                 "type":"Wireframe",
-                "url":"订单支付页_1.html"},
+                "url":"订单支付页_2.html"},
 {
                 "pageName":"支付成功",
                 "type":"Wireframe",
@@ -156,10 +160,6 @@
                 "pageName":"蔬菜宅配服务说明",
                 "type":"Wireframe",
                 "url":"蔬菜宅配服务说明.html"}]},
-{
-            "pageName":"订单支付页",
-            "type":"Wireframe",
-            "url":"订单支付页_2.html"},
 {
             "pageName":"支付成功",
             "type":"Wireframe",
@@ -257,9 +257,9 @@
             "type":"Wireframe",
             "url":"激活农旅卡.html",
             "children":[{
-                "pageName":"选择农旅卡套餐",
+                "pageName":"选择指定农场",
                 "type":"Wireframe",
-                "url":"选择农旅卡套餐.html"}]},
+                "url":"选择指定农场_1.html"}]},
 {
             "pageName":"我的农旅卡",
             "type":"Wireframe",

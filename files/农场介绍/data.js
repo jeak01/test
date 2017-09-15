@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场介绍.html",
-  "generationDate":new Date(1505384722655.21),
+  "generationDate":new Date(1505470683035.57),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1376,7 +1376,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u16.jpg"}},
+            "normal~":"images/选择指定农场/u36.jpg"}},
 {
           "id":"a79fca847b954d869e64ba4706586d75",
           "label":"",

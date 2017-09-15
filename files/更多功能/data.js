@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"更多功能.html",
-  "generationDate":new Date(1505384726505.27),
+  "generationDate":new Date(1505470686251.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -238,7 +238,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"d73b0344a612446e914090082a7e7acc",
           "label":"",
@@ -390,7 +390,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"db0c8a6b50c448ba89da5714435ce350",
           "label":"",
@@ -585,7 +585,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"fc01d1c31ef54d7cbe7116d033db34c0",
           "label":"",

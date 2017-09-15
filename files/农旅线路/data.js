@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅线路.html",
-  "generationDate":new Date(1505384717671.38),
+  "generationDate":new Date(1505470679532.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -241,7 +241,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅卡权益详情/蔬菜体验包栏首_u26.png"}},
+                    "normal~":"images/农场体验游详情/农耕游栏首_u16.png"}},
 {
                   "id":"dd55564beecf473b8178d42989910512",
                   "label":"",
@@ -2629,7 +2629,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅卡权益详情/蔬菜体验包栏首_u26.png"}},
+                    "normal~":"images/农场体验游详情/农耕游栏首_u16.png"}},
 {
                   "id":"1a9c60b5dafc4fbda0cc67c2342e94da",
                   "label":"",
@@ -4102,7 +4102,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅卡权益详情/蔬菜体验包栏首_u26.png"}},
+                    "normal~":"images/农场体验游详情/农耕游栏首_u16.png"}},
 {
                   "id":"a7cc12c04cac4bc0a2ad83266d360a3a",
                   "label":"",

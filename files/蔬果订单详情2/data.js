@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬果订单详情2.html",
-  "generationDate":new Date(1505384724621.57),
+  "generationDate":new Date(1505470684738.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -796,7 +796,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u168.jpg"}},
+            "normal~":"images/选择指定农场/u170.jpg"}},
 {
           "id":"03772a35dc554ec2b97d608bc5b23553",
           "label":"",

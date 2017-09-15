@@ -1,13 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页_2.html",
-  "generationDate":new Date(1505384714049.56),
+  "generationDate":new Date(1505470674621),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
 "payFrom"],
   "page":{
-    "packageId":"1b917272bd8f4f38862c7ddec2ae0138",
+    "packageId":"abd70800befb4e0cb482425a68f392f6",
     "type":"Axure:Page",
     "name":"订单支付页",
     "notes":{
@@ -303,12 +303,14 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "fontName":"'Arial Negreta', 'Arial'",
                     "fontSize":"11px",
+                    "fontWeight":"700",
                     "location":{
-                      "x":272,
-                      "y":6},
+                      "x":223,
+                      "y":7},
                     "size":{
-                      "width":78,
+                      "width":128,
                       "height":16}},
                   "adaptiveStyles":{
 },
@@ -321,12 +323,14 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
+                        "fontName":"'Arial Negreta', 'Arial'",
                         "fontSize":"11px",
+                        "fontWeight":"700",
                         "location":{
-                          "x":272,
-                          "y":6},
+                          "x":223,
+                          "y":7},
                         "size":{
-                          "width":78,
+                          "width":128,
                           "height":16}},
                       "adaptiveStyles":{
 }}],
@@ -382,10 +386,10 @@
                       "color":0xFFFF0000,
                       "opacity":1},
                     "location":{
-                      "x":299,
-                      "y":58},
+                      "x":307,
+                      "y":57},
                     "size":{
-                      "width":51,
+                      "width":44,
                       "height":16}},
                   "adaptiveStyles":{
 },
@@ -403,10 +407,10 @@
                           "color":0xFFFF0000,
                           "opacity":1},
                         "location":{
-                          "x":299,
-                          "y":58},
+                          "x":307,
+                          "y":57},
                         "size":{
-                          "width":51,
+                          "width":44,
                           "height":16}},
                       "adaptiveStyles":{
 }}],
@@ -808,7 +812,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页_1/u40.png"}},
+            "normal~":"images/订单支付页_1/u34.png"}},
 {
           "id":"959cb30ab4f04ec39245b657901034b9",
           "label":"",
@@ -975,7 +979,7 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"dd54a588b3ee497ab1b84a8a6ce2ffb4",
+          "id":"bf8e55fdda91499ca0d03dc64d570b58",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
@@ -990,7 +994,7 @@
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"090731b1df874522b124cf1e52f47388",
+              "id":"fb720739c61e4e79983c6eaa70864840",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -1125,7 +1129,7 @@
       "scriptId":"u48"},
     "802d2fe8b13d4455ab04f2fb4ea0d9de":{
       "scriptId":"u49"},
-    "dd54a588b3ee497ab1b84a8a6ce2ffb4":{
+    "bf8e55fdda91499ca0d03dc64d570b58":{
       "scriptId":"u50"},
-    "090731b1df874522b124cf1e52f47388":{
+    "fb720739c61e4e79983c6eaa70864840":{
       "scriptId":"u51"}}});

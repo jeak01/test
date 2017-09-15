@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主题农旅.html",
-  "generationDate":new Date(1505384738903.88),
+  "generationDate":new Date(1505470698305.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -136,7 +136,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/蔬菜体验包栏首_u26.png"}},
+            "normal~":"images/农场体验游详情/农耕游栏首_u16.png"}},
 {
           "id":"d4c2fef46fe142cca34b32ac7e34340c",
           "label":"",

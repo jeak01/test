@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蔬菜宅配.html",
-  "generationDate":new Date(1505384704186.78),
+  "generationDate":new Date(1505470668242.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -8323,7 +8323,7 @@
                                       "x":65,
                                       "y":37},
                                     "size":{
-                                      "width":197,
+                                      "width":130,
                                       "height":14}},
                                   "adaptiveStyles":{
 },
@@ -8341,7 +8341,7 @@
                                           "x":65,
                                           "y":37},
                                         "size":{
-                                          "width":197,
+                                          "width":130,
                                           "height":14}},
                                       "adaptiveStyles":{
 }}],
@@ -8573,7 +8573,7 @@
                                       "x":65,
                                       "y":98},
                                     "size":{
-                                      "width":197,
+                                      "width":130,
                                       "height":14}},
                                   "adaptiveStyles":{
 },
@@ -8591,7 +8591,7 @@
                                           "x":65,
                                           "y":98},
                                         "size":{
-                                          "width":197,
+                                          "width":130,
                                           "height":14}},
                                       "adaptiveStyles":{
 }}],
@@ -8823,7 +8823,7 @@
                                       "x":65,
                                       "y":159},
                                     "size":{
-                                      "width":197,
+                                      "width":130,
                                       "height":14}},
                                   "adaptiveStyles":{
 },
@@ -8841,7 +8841,7 @@
                                           "x":65,
                                           "y":159},
                                         "size":{
-                                          "width":197,
+                                          "width":130,
                                           "height":14}},
                                       "adaptiveStyles":{
 }}],
@@ -9073,7 +9073,7 @@
                                       "x":65,
                                       "y":220},
                                     "size":{
-                                      "width":197,
+                                      "width":130,
                                       "height":14}},
                                   "adaptiveStyles":{
 },
@@ -9091,7 +9091,7 @@
                                           "x":65,
                                           "y":220},
                                         "size":{
-                                          "width":197,
+                                          "width":130,
                                           "height":14}},
                                       "adaptiveStyles":{
 }}],
@@ -9323,7 +9323,7 @@
                                       "x":65,
                                       "y":281},
                                     "size":{
-                                      "width":197,
+                                      "width":130,
                                       "height":14}},
                                   "adaptiveStyles":{
 },
@@ -9341,7 +9341,7 @@
                                           "x":65,
                                           "y":281},
                                         "size":{
-                                          "width":197,
+                                          "width":130,
                                           "height":14}},
                                       "adaptiveStyles":{
 }}],
@@ -9573,7 +9573,7 @@
                                       "x":65,
                                       "y":342},
                                     "size":{
-                                      "width":197,
+                                      "width":130,
                                       "height":14}},
                                   "adaptiveStyles":{
 },
@@ -9591,7 +9591,7 @@
                                           "x":65,
                                           "y":342},
                                         "size":{
-                                          "width":197,
+                                          "width":130,
                                           "height":14}},
                                       "adaptiveStyles":{
 }}],
@@ -9770,7 +9770,7 @@
                                       "x":65,
                                       "y":403},
                                     "size":{
-                                      "width":197,
+                                      "width":130,
                                       "height":14}},
                                   "adaptiveStyles":{
 },
@@ -9788,7 +9788,7 @@
                                           "x":65,
                                           "y":403},
                                         "size":{
-                                          "width":197,
+                                          "width":130,
                                           "height":14}},
                                       "adaptiveStyles":{
 }}],
@@ -9967,7 +9967,7 @@
                                       "x":65,
                                       "y":464},
                                     "size":{
-                                      "width":197,
+                                      "width":130,
                                       "height":14}},
                                   "adaptiveStyles":{
 },
@@ -9985,7 +9985,7 @@
                                           "x":65,
                                           "y":464},
                                         "size":{
-                                          "width":197,
+                                          "width":130,
                                           "height":14}},
                                       "adaptiveStyles":{
 }}],
@@ -10217,7 +10217,7 @@
                                       "x":65,
                                       "y":525},
                                     "size":{
-                                      "width":197,
+                                      "width":130,
                                       "height":14}},
                                   "adaptiveStyles":{
 },
@@ -10235,7 +10235,7 @@
                                           "x":65,
                                           "y":525},
                                         "size":{
-                                          "width":197,
+                                          "width":130,
                                           "height":14}},
                                       "adaptiveStyles":{
 }}],
@@ -10467,7 +10467,7 @@
                                       "x":65,
                                       "y":586},
                                     "size":{
-                                      "width":197,
+                                      "width":130,
                                       "height":14}},
                                   "adaptiveStyles":{
 },
@@ -10485,7 +10485,7 @@
                                           "x":65,
                                           "y":586},
                                         "size":{
-                                          "width":197,
+                                          "width":130,
                                           "height":14}},
                                       "adaptiveStyles":{
 }}],
@@ -10717,7 +10717,7 @@
                                       "x":65,
                                       "y":647},
                                     "size":{
-                                      "width":197,
+                                      "width":130,
                                       "height":14}},
                                   "adaptiveStyles":{
 },
@@ -10735,7 +10735,7 @@
                                           "x":65,
                                           "y":647},
                                         "size":{
-                                          "width":197,
+                                          "width":130,
                                           "height":14}},
                                       "adaptiveStyles":{
 }}],

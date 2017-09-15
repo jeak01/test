@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员特权.html",
-  "generationDate":new Date(1505384730513.44),
+  "generationDate":new Date(1505470689469.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -251,7 +251,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/免费门票栏首_u34.png"}},
+            "normal~":"images/新人专享套餐/体验游栏首_u12.png"}},
 {
           "id":"2080e938598944e7b712e7df5dd9b0b0",
           "label":"",
@@ -533,7 +533,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u10.jpg"}},
+            "normal~":"images/新人专享套餐/u24.jpg"}},
 {
           "id":"fef42f8cbc2c4fe696c3e85654e417a1",
           "label":"",
@@ -609,7 +609,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u18.jpg"}},
+            "normal~":"images/新人专享套餐/u28.jpg"}},
 {
           "id":"98c7efdccba94e56900e54efbcc3b411",
           "label":"",
@@ -685,7 +685,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u22.jpg"}},
+            "normal~":"images/新人专享套餐/u16.jpg"}},
 {
           "id":"304199f84587494aa4be2a82117eafe8",
           "label":"",
@@ -1021,7 +1021,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u14.jpg"}},
+            "normal~":"images/会员特权/u48.jpg"}},
 {
           "id":"6b2dadf8c69f45838056d881fad8e550",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"__0905.html",
-  "generationDate":new Date(1505384747002.35),
+  "generationDate":new Date(1505470705556.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1758,10 +1758,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农旅卡列表",
+                      "description":"在 当前窗口 打开 选择指定农场",
                       "target":{
                         "targetType":"page",
-                        "url":"农旅卡列表.html",
+                        "url":"选择指定农场.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -3051,10 +3051,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农旅卡列表",
+                      "description":"在 当前窗口 打开 选择指定农场",
                       "target":{
                         "targetType":"page",
-                        "url":"农旅卡列表.html",
+                        "url":"选择指定农场.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -7411,7 +7411,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u262.png"}},
+            "normal~":"images/选择指定农场/u20.png"}},
 {
           "id":"ebb19974a716487b996c54d8c0eeff1c",
           "label":"",
@@ -7444,7 +7444,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u254.png"}},
+            "normal~":"images/选择指定农场/u12.png"}},
 {
           "id":"38cae76bc34f447d9b5e006bb71c2486",
           "label":"",
@@ -7477,7 +7477,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u268.png"}},
+            "normal~":"images/选择指定农场/u26.png"}},
 {
           "id":"eac3bf124cea43b7801e2f3a01729ea5",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡主题页.html",
-  "generationDate":new Date(1505384710096.36),
+  "generationDate":new Date(1505470673047.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -327,10 +327,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农旅卡列表",
+                      "description":"在 当前窗口 打开 选择指定农场",
                       "target":{
                         "targetType":"page",
-                        "url":"农旅卡列表.html",
+                        "url":"选择指定农场.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1235,10 +1235,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农旅卡列表",
+                      "description":"在 当前窗口 打开 选择指定农场",
                       "target":{
                         "targetType":"page",
-                        "url":"农旅卡列表.html",
+                        "url":"选择指定农场.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1397,7 +1397,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u252.png"}},
+            "normal~":"images/农旅卡主题页/u68.png"}},
 {
           "id":"5ae0908599da43e985dc5b6535ee7546",
           "label":"",
@@ -1430,7 +1430,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u254.png"}},
+            "normal~":"images/选择指定农场/u12.png"}},
 {
           "id":"b2b3a816998f43a59d96b8f232bdd20c",
           "label":"",
@@ -1524,7 +1524,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u258.png"}},
+            "normal~":"images/农旅卡主题页/u74.png"}},
 {
           "id":"ee2d0f454598493bbbfc303a6aef0bb3",
           "label":"",
@@ -1600,7 +1600,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u262.png"}},
+            "normal~":"images/选择指定农场/u20.png"}},
 {
           "id":"cae4d2f4c48b4a798a9740ba4531177f",
           "label":"",
@@ -1645,7 +1645,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u264.png"}},
+            "normal~":"images/农旅卡主题页/u80.png"}},
 {
           "id":"5aa35b77aaf2493a81a2faf8a0355b31",
           "label":"",
@@ -1721,7 +1721,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u268.png"}}]}},
+            "normal~":"images/选择指定农场/u26.png"}}]}},
   "masters":{
 },
   "objectPaths":{

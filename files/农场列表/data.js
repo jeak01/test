@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场列表.html",
-  "generationDate":new Date(1505384715938.07),
+  "generationDate":new Date(1505470677875.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -117,7 +117,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/蔬菜体验包栏首_u26.png"}},
+            "normal~":"images/农场体验游详情/农耕游栏首_u16.png"}},
 {
           "id":"dd55564beecf473b8178d42989910512",
           "label":"",
@@ -1780,7 +1780,7 @@
               "x":83,
               "y":118},
             "size":{
-              "width":197,
+              "width":130,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -1797,7 +1797,7 @@
                   "x":83,
                   "y":118},
                 "size":{
-                  "width":197,
+                  "width":130,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -1899,7 +1899,7 @@
               "x":87,
               "y":187},
             "size":{
-              "width":191,
+              "width":130,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -1916,7 +1916,7 @@
                   "x":87,
                   "y":187},
                 "size":{
-                  "width":191,
+                  "width":130,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -2018,7 +2018,7 @@
               "x":86,
               "y":258},
             "size":{
-              "width":184,
+              "width":123,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -2035,7 +2035,7 @@
                   "x":86,
                   "y":258},
                 "size":{
-                  "width":184,
+                  "width":123,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -2137,7 +2137,7 @@
               "x":86,
               "y":329},
             "size":{
-              "width":182,
+              "width":121,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -2154,7 +2154,7 @@
                   "x":86,
                   "y":329},
                 "size":{
-                  "width":182,
+                  "width":121,
                   "height":14}},
               "adaptiveStyles":{
 }}],
@@ -2256,7 +2256,7 @@
               "x":87,
               "y":400},
             "size":{
-              "width":197,
+              "width":130,
               "height":14}},
           "adaptiveStyles":{
 },
@@ -2273,7 +2273,7 @@
                   "x":87,
                   "y":400},
                 "size":{
-                  "width":197,
+                  "width":130,
                   "height":14}},
               "adaptiveStyles":{
 }}],

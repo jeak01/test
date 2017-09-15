@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"激活农旅卡.html",
-  "generationDate":new Date(1505384723452.44),
+  "generationDate":new Date(1505470683737.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -255,10 +255,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 选择农旅卡套餐",
+                      "description":"在 当前窗口 打开 选择指定农场",
                       "target":{
                         "targetType":"page",
-                        "url":"选择农旅卡套餐.html",
+                        "url":"选择指定农场_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

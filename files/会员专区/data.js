@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"会员专区.html",
-  "generationDate":new Date(1505384730793.15),
+  "generationDate":new Date(1505470689755.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -729,7 +729,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u18.jpg"}},
+            "normal~":"images/新人专享套餐/u28.jpg"}},
 {
           "id":"8f643979d63e432f97030a616f34b5e8",
           "label":"",
@@ -795,7 +795,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u10.jpg"}},
+            "normal~":"images/新人专享套餐/u24.jpg"}},
 {
           "id":"f548492cb1384a3baea20abc928d5d81",
           "label":"",
@@ -861,7 +861,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u22.jpg"}},
+            "normal~":"images/新人专享套餐/u16.jpg"}},
 {
           "id":"4f0e1e56da95446caf0844690dc8516c",
           "label":"",

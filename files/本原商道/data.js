@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"本原商道.html",
-  "generationDate":new Date(1505384741765.45),
+  "generationDate":new Date(1505470700938.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -136,7 +136,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/蔬菜体验包栏首_u26.png"}},
+            "normal~":"images/农场体验游详情/农耕游栏首_u16.png"}},
 {
           "id":"dd55564beecf473b8178d42989910512",
           "label":"",

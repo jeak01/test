@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页（0907）.html",
-  "generationDate":new Date(1505384746323.38),
+  "generationDate":new Date(1505470704889.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1677,10 +1677,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农旅卡列表",
+                      "description":"在 当前窗口 打开 选择指定农场",
                       "target":{
                         "targetType":"page",
-                        "url":"农旅卡列表.html",
+                        "url":"选择指定农场.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -6782,7 +6782,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u254.png"}},
+            "normal~":"images/选择指定农场/u12.png"}},
 {
           "id":"dbe3932f212f4fdb9660ed2c5e090ff8",
           "label":"",
@@ -6952,7 +6952,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u262.png"}},
+            "normal~":"images/选择指定农场/u20.png"}},
 {
           "id":"f83be527c06f49f9b1d9d00f7ff33f36",
           "label":"",
@@ -7014,10 +7014,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农旅卡列表",
+                      "description":"在 当前窗口 打开 选择指定农场",
                       "target":{
                         "targetType":"page",
-                        "url":"农旅卡列表.html",
+                        "url":"选择指定农场.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -7143,7 +7143,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡列表/u268.png"}},
+            "normal~":"images/选择指定农场/u26.png"}},
 {
           "id":"f1a054a4a511486dad41854d6cb18f54",
           "label":"",
@@ -7411,10 +7411,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 农旅卡列表",
+                      "description":"在 当前窗口 打开 选择指定农场",
                       "target":{
                         "targetType":"page",
-                        "url":"农旅卡列表.html",
+                        "url":"选择指定农场.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

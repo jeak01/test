@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（初始）.html",
-  "generationDate":new Date(1505384734668.01),
+  "generationDate":new Date(1505470694600.24),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1530,7 +1530,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/蔬菜体验包栏首_u26.png"}},
+            "normal~":"images/农场体验游详情/农耕游栏首_u16.png"}},
 {
           "id":"35b44210e12d442781214ad08845b950",
           "label":"",
@@ -2233,7 +2233,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/农旅卡权益详情/u159.png"}}]}]}]}},
+                    "normal~":"images/新人专享套餐/u263.png"}}]}]}]}},
   "masters":{
 },
   "objectPaths":{

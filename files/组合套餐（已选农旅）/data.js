@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"组合套餐（已选农旅）.html",
-  "generationDate":new Date(1505384735455.61),
+  "generationDate":new Date(1505470695358.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -420,7 +420,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/免费门票栏首_u34.png"}},
+            "normal~":"images/新人专享套餐/体验游栏首_u12.png"}},
 {
           "id":"c1398c03a2a74932978d3aa5e9bb79d7",
           "label":"",
@@ -3257,7 +3257,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/农旅卡权益详情/u159.png"}}]}]},
+                    "normal~":"images/新人专享套餐/u263.png"}}]}]},
 {
           "id":"71df45a1448a4770bb11862dbf68a3a3",
           "label":"",

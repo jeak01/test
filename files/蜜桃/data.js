@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蜜桃.html",
-  "generationDate":new Date(1505384748822.28),
+  "generationDate":new Date(1505470707021.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -161,7 +161,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u46.png"}},
+            "normal~":"images/新人专享套餐/u199.png"}},
 {
           "id":"5988d78ad6474af4adb8d691d62ea497",
           "label":"",

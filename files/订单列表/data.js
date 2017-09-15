@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单列表.html",
-  "generationDate":new Date(1505384747773.86),
+  "generationDate":new Date(1505470706226.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -515,7 +515,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u40.png"}},
+            "normal~":"images/新人专享套餐/u76.png"}},
 {
           "id":"e43de9cdf99c497497f976fbdf6ad381",
           "label":"",
@@ -823,7 +823,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u40.png"}},
+            "normal~":"images/新人专享套餐/u76.png"}},
 {
           "id":"ad7ac70b27a64adc8f8cfce0b43b4b9b",
           "label":"",
@@ -1131,7 +1131,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡权益详情/u40.png"}},
+            "normal~":"images/新人专享套餐/u76.png"}},
 {
           "id":"c39a5aa48b664b5e846f68aa93d052ef",
           "label":"",

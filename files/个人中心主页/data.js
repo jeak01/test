@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心主页.html",
-  "generationDate":new Date(1505384723261.05),
+  "generationDate":new Date(1505470683558.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -815,7 +815,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"d66e413e552f439e8ada315706f4dc21",
           "label":"",
@@ -1061,7 +1061,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"5c43356a76e44817b02a3b8adefd9201",
           "label":"",
@@ -1213,7 +1213,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"f5389488d2cc444882c646c70f854dfb",
           "label":"",
@@ -1365,7 +1365,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"2efedabc179f4c95967716342c016ef1",
           "label":"",
@@ -1517,7 +1517,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"9fe76049b3c646f3b5b35bcb3759efea",
           "label":"",
@@ -1669,7 +1669,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"213d17fde88a46459b13eb9d9871af70",
           "label":"",
@@ -1821,7 +1821,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"a92fa938aee64b6895ec2f1a9a8d51b8",
           "label":"",
@@ -1973,7 +1973,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"c19f6ec8a5b54b64930468862336bcc4",
           "label":"",
@@ -2125,7 +2125,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"86a507644e9445919dcba2965a0743ad",
           "label":"",
@@ -2277,7 +2277,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"e6f54384ff76454bb8adaac90c1a103c",
           "label":"",
@@ -2429,7 +2429,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"755d3cf0e2af463da05ff6efd92f9e5f",
           "label":"",
@@ -2611,7 +2611,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"553fc75910c945fe8e3a6b1677dc0f83",
           "label":"",
@@ -2793,7 +2793,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/个人中心主页/u42.png"}},
+            "normal~":"images/农场体验游详情/u47.png"}},
 {
           "id":"c15607366dbf4e12af3d5596eee2b913",
           "label":"",

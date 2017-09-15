@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品列表_1.html",
-  "generationDate":new Date(1505384748636.16),
+  "generationDate":new Date(1505470706891.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3336,7 +3336,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/农旅卡权益详情/免费门票栏首_u34.png"}},
+                    "normal~":"images/新人专享套餐/体验游栏首_u12.png"}},
 {
                   "id":"4a32c6ae636a418ca8688ca20bcf2462",
                   "label":"",
