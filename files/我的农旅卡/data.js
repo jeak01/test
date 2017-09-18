@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的农旅卡.html",
-  "generationDate":new Date(1505470684268.39),
+  "generationDate":new Date(1505704605980.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -769,10 +769,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 选择菜品",
+                      "description":"在 当前窗口 打开 蔬菜宅配",
                       "target":{
                         "targetType":"page",
-                        "url":"选择菜品_1.html",
+                        "url":"蔬菜宅配.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1394,6 +1394,21 @@
                 "cornerRadiusTopLeft":"5"},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 优游权益门票",
+                      "target":{
+                        "targetType":"page",
+                        "url":"优游权益门票.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/我的农旅卡/u36.png"}},
 {

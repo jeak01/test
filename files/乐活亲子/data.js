@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"乐活亲子.html",
-  "generationDate":new Date(1505470698621.94),
+  "generationDate":new Date(1505704618321.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新人专享套餐.html",
-  "generationDate":new Date(1505470688472.18),
+  "generationDate":new Date(1505704609781.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4260,7 +4260,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/新人专享套餐/u211.jpg"}},
+            "normal~":"images/优游权益门票/u18.png"}},
 {
           "id":"286167a468e2449aa2deaed1aafab87a",
           "label":"",

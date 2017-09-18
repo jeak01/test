@@ -265,6 +265,14 @@
             "type":"Wireframe",
             "url":"我的农旅卡.html"},
 {
+            "pageName":"优游权益门票",
+            "type":"Wireframe",
+            "url":"优游权益门票.html",
+            "children":[{
+                "pageName":"订单详情",
+                "type":"Wireframe",
+                "url":"订单详情_2.html"}]},
+{
             "pageName":"全部订单",
             "type":"Wireframe",
             "url":"全部订单.html",
