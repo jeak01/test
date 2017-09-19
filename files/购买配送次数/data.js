@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"购买配送次数.html",
-  "generationDate":new Date(1505804190227.57),
+  "generationDate":new Date(1505815326394.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -223,7 +223,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页/u0.png"}},
+            "normal~":"images/1_2订单支付页/u0.png"}},
 {
           "id":"3d730967bb3547f6b4438449fe3e6f95",
           "label":"",
@@ -250,7 +250,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u44.png"}},
+            "normal~":"images/0_0主页/top_u99.png"}},
 {
           "id":"f5e914bb11894625a2c816a92a7852c9",
           "label":"",
@@ -299,7 +299,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u103.png"}},
+            "normal~":"images/0_0主页/u5.png"}},
 {
           "id":"274b1989398e4cbf9e0b80ffb1e65608",
           "label":"",
@@ -371,7 +371,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u44.png"}},
+            "normal~":"images/0_0主页/top_u99.png"}},
 {
           "id":"28e10a054860476b87baf08ec34d4791",
           "label":"",
@@ -437,7 +437,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页/u25.png"}},
+            "normal~":"images/1_2订单支付页/u25.png"}},
 {
           "id":"2c99f5ed755344b48c5d887f2120b1be",
           "label":"",
@@ -536,12 +536,12 @@
                               "description":"在 当前窗口 打开 支付成功",
                               "target":{
                                 "targetType":"page",
-                                "url":"支付成功_2.html",
+                                "url":"支付成功.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/订单支付页/u30.png"}}]}]},
+                    "normal~":"images/1_2订单支付页/u30.png"}}]}]},
 {
           "id":"8c4efd36ebd54d9dae2942e9f9d4ee3b",
           "label":"",
@@ -636,7 +636,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页_1/u34.png"}},
+            "normal~":"images/2_2订单支付页/u34.png"}},
 {
           "id":"959cb30ab4f04ec39245b657901034b9",
           "label":"",
@@ -669,7 +669,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单支付页/u34.png"}},
+            "normal~":"images/1_2订单支付页/u34.png"}},
 {
           "id":"608ed929c8804bb3a9ca3d73cd6fdfdb",
           "label":"",
@@ -793,10 +793,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 会员充值",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"会员充值_1.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -840,7 +839,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u39.png"}},
+            "normal~":"images/4_2_1线路详情/u151.png"}},
 {
           "id":"4dcac2896f854bbe9242c98e9841a9f2",
           "label":"",
@@ -914,7 +913,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/蔬菜宅配/u5.png"}},
+            "normal~":"images/1_0蔬菜宅配/u5.png"}},
 {
           "id":"89532469b5ce4274a7c3f7f5e4a83cc2",
           "label":"",
@@ -986,7 +985,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u39.png"}},
+            "normal~":"images/4_2_1线路详情/u151.png"}},
 {
           "id":"b5b26086be0f473b9f7a8a4cec6dac13",
           "label":"",
@@ -1516,7 +1515,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/购买配送次数/u39.png"}},
+            "normal~":"images/4_2_1线路详情/u151.png"}},
 {
           "id":"8efb37e86ff74399af429e0d96c70f53",
           "label":"",
@@ -1631,7 +1630,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u24.png"}},
+            "normal~":"images/1_1确认订单/u24.png"}},
 {
           "id":"19feb49ea15e460aaba15d50bfac1424",
           "label":"",
@@ -1787,7 +1786,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u24.png"}},
+            "normal~":"images/1_1确认订单/u24.png"}},
 {
           "id":"1c57bab0ff444758a9b1263e2881be72",
           "label":"",
@@ -1977,7 +1976,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u74.png"}},
+                    "normal~":"images/1_1确认订单/u74.png"}},
 {
                   "id":"99cb84e91a7e45198b92a86a79fe2163",
                   "label":"",
@@ -2012,7 +2011,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页2/top_u44.png"}},
+                    "normal~":"images/0_0主页/top_u99.png"}},
 {
                   "id":"6ecde4b5615941e7aec564a2a74c7992",
                   "label":"",
@@ -2133,7 +2132,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u82.png"}},
+                    "normal~":"images/1_1确认订单/u82.png"}},
 {
                   "id":"6cdb82ae09a0439e97bd2af1a5f00867",
                   "label":"",
@@ -2182,7 +2181,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u84.png"}},
+                    "normal~":"images/1_1确认订单/u84.png"}},
 {
                   "id":"d7847318067849e6b2d3d7202d4de9ed",
                   "label":"",
@@ -2389,7 +2388,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u82.png"}},
+                    "normal~":"images/1_1确认订单/u82.png"}},
 {
                   "id":"73058155247a4e31a7b3fd2102d8ef80",
                   "label":"",
@@ -2438,7 +2437,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u84.png"}},
+                    "normal~":"images/1_1确认订单/u84.png"}},
 {
                   "id":"7bd63b25359946ef8b982b90b6c2c2b8",
                   "label":"",
@@ -2645,7 +2644,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u82.png"}},
+                    "normal~":"images/1_1确认订单/u82.png"}},
 {
                   "id":"8cdd18b067e94dffbed0514c1aae569d",
                   "label":"",
@@ -2694,7 +2693,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u84.png"}},
+                    "normal~":"images/1_1确认订单/u84.png"}},
 {
                   "id":"b4a5a72e8ce84bd3a562abdf72c5eeae",
                   "label":"",
@@ -2946,7 +2945,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u82.png"}},
+                    "normal~":"images/1_1确认订单/u82.png"}},
 {
                   "id":"194200c0276847248ddaba76cd3b9cc3",
                   "label":"",
@@ -2995,7 +2994,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u122.png"}},
+                    "normal~":"images/1_1确认订单/u122.png"}},
 {
                   "id":"975b434616f4457ab8c19dfc19b1c969",
                   "label":"",
@@ -3220,7 +3219,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页2/u248.png"}},
+                    "normal~":"images/0_0主页/u51.png"}},
 {
                   "id":"b789aac8e3ba4562b2c98c419b029e67",
                   "label":"",
@@ -3445,15 +3444,15 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 会员充值",
+                      "description":"在 当前窗口 打开 3.0会员充值",
                       "target":{
                         "targetType":"page",
-                        "url":"会员充值.html",
+                        "url":"3_0会员充值.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u7.jpg"}}]}},
+            "normal~":"images/0_0主页/u62.jpg"}}]}},
   "masters":{
 },
   "objectPaths":{
