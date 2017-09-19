@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"全部分类.html",
-  "generationDate":new Date(1505789936518.32),
+  "generationDate":new Date(1505790830467.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
