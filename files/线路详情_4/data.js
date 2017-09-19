@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情_4.html",
-  "generationDate":new Date(1505790849958.14),
+  "generationDate":new Date(1505803514868.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1081,7 +1081,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u29.png"}},
+            "normal~":"images/确认订单/u24.png"}},
 {
           "id":"456076c766af4f05b0be984a15b56f77",
           "label":"",
@@ -1186,7 +1186,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u29.png"}},
+            "normal~":"images/确认订单/u24.png"}},
 {
           "id":"baf356238bc24ac89ede1efeae82d8be",
           "label":"",
@@ -1291,7 +1291,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u29.png"}},
+            "normal~":"images/确认订单/u24.png"}},
 {
           "id":"ac9013e5857f4fed8e41f665c3656dc1",
           "label":"",
@@ -3369,7 +3369,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u29.png"}},
+            "normal~":"images/确认订单/u24.png"}},
 {
           "id":"c76b42c6431d4beab206de7e1b2d4e6c",
           "label":"",
@@ -3579,7 +3579,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品详情/u40.png"}},
+                    "normal~":"images/确认订单/u138.png"}},
 {
                   "id":"1a5b8ac4e88d4eb98ae8ae811121913f",
                   "label":"",
@@ -3937,7 +3937,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品详情/u40.png"}},
+                    "normal~":"images/确认订单/u138.png"}},
 {
                   "id":"f930b31b95a9437ea06ebf13848b2f14",
                   "label":"",

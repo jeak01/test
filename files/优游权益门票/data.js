@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"优游权益门票.html",
-  "generationDate":new Date(1505790841627.61),
+  "generationDate":new Date(1505803507103.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -70,7 +70,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u79.png"}},
+            "normal~":"images/确认订单/u74.png"}},
 {
           "id":"bb7515a65f144987b1064f1bb515b649",
           "label":"",

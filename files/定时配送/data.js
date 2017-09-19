@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"定时配送.html",
-  "generationDate":new Date(1505790867051.48),
+  "generationDate":new Date(1505803528260.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1127,7 +1127,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品详情/u40.png"}},
+                    "normal~":"images/确认订单/u138.png"}},
 {
                   "id":"f10cb96905384beaad5d8e4ac33a8edd",
                   "label":"",

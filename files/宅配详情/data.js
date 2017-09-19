@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"宅配详情.html",
-  "generationDate":new Date(1505790852794.02),
+  "generationDate":new Date(1505803517053.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -5569,7 +5569,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品详情/u40.png"}},
+                    "normal~":"images/确认订单/u138.png"}},
 {
                   "id":"283c67624ada4acfa27fd0c972a96217",
                   "label":"套餐价格（底部）",
@@ -5791,7 +5791,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品详情/u40.png"}},
+                    "normal~":"images/确认订单/u138.png"}},
 {
                   "id":"dee1448c5dcc42c885eb89a0a9420b78",
                   "label":"套餐价格（底部）",

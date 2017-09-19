@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"商品详情.html",
-  "generationDate":new Date(1505790832718.69),
+  "generationDate":new Date(1505803498944.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -816,7 +816,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品详情/u40.png"}},
+                    "normal~":"images/确认订单/u138.png"}},
 {
                   "id":"bcb02cc1b40a4725a47806f7dc8de8e1",
                   "label":"",

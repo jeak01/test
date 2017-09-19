@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"线路详情.html",
-  "generationDate":new Date(1505790838069.25),
+  "generationDate":new Date(1505803503997.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -449,7 +449,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u29.png"}},
+                    "normal~":"images/确认订单/u24.png"}},
 {
                   "id":"7f46a2901a0449769f8107074a612861",
                   "label":"",
@@ -560,7 +560,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u29.png"}},
+                    "normal~":"images/确认订单/u24.png"}},
 {
                   "id":"1dfd92dc71b641d08e9acb188f1ac572",
                   "label":"",
@@ -694,7 +694,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u29.png"}},
+                    "normal~":"images/确认订单/u24.png"}},
 {
                   "id":"960f10e56faf45f69f95b4dcc3b944db",
                   "label":"",
@@ -828,7 +828,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u29.png"}},
+                    "normal~":"images/确认订单/u24.png"}},
 {
                   "id":"53b4452af2104f5cb0a2a16e86677b52",
                   "label":"",
@@ -1007,7 +1007,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/确认订单/u29.png"}},
+                    "normal~":"images/确认订单/u24.png"}},
 {
                   "id":"c5c6fe190e06430ea35f21acb2d4c754",
                   "label":"",
@@ -2464,7 +2464,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/商品详情/u40.png"}},
+                            "normal~":"images/确认订单/u138.png"}},
 {
                           "id":"22a455d44b9a4b8d8c35c1e26b16f734",
                           "label":"",

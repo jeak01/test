@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单_5.html",
-  "generationDate":new Date(1505790851495.16),
+  "generationDate":new Date(1505803516166.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1003,7 +1003,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u29.png"}},
+            "normal~":"images/确认订单/u24.png"}},
 {
           "id":"72fc30c1b7b346f1804978df78cb31e5",
           "label":"",
@@ -1108,7 +1108,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u29.png"}},
+            "normal~":"images/确认订单/u24.png"}},
 {
           "id":"9f88094edc234a9888dab33d49388350",
           "label":"",
@@ -1213,7 +1213,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u29.png"}},
+            "normal~":"images/确认订单/u24.png"}},
 {
           "id":"d8a96bab62914802a9502a26dbe4c55b",
           "label":"",
@@ -1369,7 +1369,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u29.png"}},
+            "normal~":"images/确认订单/u24.png"}},
 {
           "id":"499c4cf46c6b4cd3bb65cf905082a1e0",
           "label":"",
@@ -1515,7 +1515,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u29.png"}},
+            "normal~":"images/确认订单/u24.png"}},
 {
           "id":"6d6a96f45e7f418d9d7f307d78675ea2",
           "label":"",
@@ -1661,7 +1661,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u29.png"}},
+            "normal~":"images/确认订单/u24.png"}},
 {
           "id":"865529dddaf2476b88ec4c405d727140",
           "label":"",
@@ -4488,7 +4488,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u29.png"}},
+            "normal~":"images/确认订单/u24.png"}},
 {
           "id":"3b09c4989e554574941c6b5052edf0ae",
           "label":"",
@@ -4634,7 +4634,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/确认订单/u29.png"}},
+            "normal~":"images/确认订单/u24.png"}},
 {
           "id":"26bc202118dc4ac6a01c877514de114f",
           "label":"",
@@ -4770,7 +4770,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/商品详情/u40.png"}},
+                    "normal~":"images/确认订单/u138.png"}},
 {
                   "id":"f10cb96905384beaad5d8e4ac33a8edd",
                   "label":"",
