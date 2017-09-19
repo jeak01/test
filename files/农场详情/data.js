@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场详情.html",
-  "generationDate":new Date(1505704626191.74),
+  "generationDate":new Date(1505789973320.75),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -124,7 +124,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u46.png"}},
+            "normal~":"images/主页2/top_u44.png"}},
 {
           "id":"d65c137f838d4f8cb5f733c504dc93c6",
           "label":"",
@@ -173,7 +173,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u107.png"}},
+            "normal~":"images/主页2/u103.png"}},
 {
           "id":"cf921453cb69460e84151c8b384bc978",
           "label":"",
@@ -566,7 +566,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u166.png"}},
+            "normal~":"images/主页/u166.png"}},
 {
           "id":"c7b7c86cf3ca4027ab5b168e3c3698c8",
           "label":"",
@@ -767,7 +767,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u211.jpg"}},
+            "normal~":"images/蔬菜宅配/u492.jpg"}},
 {
           "id":"da635c8bb4574240b60641d153495524",
           "label":"",
@@ -1684,7 +1684,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页2/top_u46.png"}},
+              "normal~":"images/主页2/top_u44.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -1881,7 +1881,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页2/u75.png"}},
+              "normal~":"images/主页2/u73.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -2010,7 +2010,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页2/u77.png"}},
+              "normal~":"images/主页2/u75.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

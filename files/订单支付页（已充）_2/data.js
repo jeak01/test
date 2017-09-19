@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单支付页（已充）_2.html",
-  "generationDate":new Date(1505704621671.67),
+  "generationDate":new Date(1505789967119.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u46.png"}},
+            "normal~":"images/主页2/top_u44.png"}},
 {
           "id":"f5e914bb11894625a2c816a92a7852c9",
           "label":"",
@@ -146,7 +146,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u107.png"}},
+            "normal~":"images/主页2/u103.png"}},
 {
           "id":"274b1989398e4cbf9e0b80ffb1e65608",
           "label":"",
@@ -511,7 +511,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u46.png"}},
+            "normal~":"images/主页2/top_u44.png"}},
 {
           "id":"28e10a054860476b87baf08ec34d4791",
           "label":"",
@@ -643,7 +643,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u46.png"}},
+            "normal~":"images/主页2/top_u44.png"}},
 {
           "id":"042a4451b97f4f3db0e46ba0d276d9a5",
           "label":"",

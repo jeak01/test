@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单_3.html",
-  "generationDate":new Date(1505704602959.25),
+  "generationDate":new Date(1505789946171.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u46.png"}},
+            "normal~":"images/主页2/top_u44.png"}},
 {
           "id":"f6b268a31bc84bffa5d234518e9aba4a",
           "label":"",
@@ -146,7 +146,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u107.png"}},
+            "normal~":"images/主页2/u103.png"}},
 {
           "id":"abcc48370d824e4385c17158cf3e2548",
           "label":"",
@@ -1010,7 +1010,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u46.png"}},
+            "normal~":"images/主页2/top_u44.png"}},
 {
           "id":"01bfad8466eb4d208500f523226c3fb3",
           "label":"",
@@ -2074,7 +2074,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u242.png"}}]}]},
+                    "normal~":"images/确认订单_3/u108.png"}}]}]},
 {
           "id":"c46fe622a38c48729a82ec21c2012aac",
           "label":"卡券面板",
@@ -2173,7 +2173,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页2/top_u46.png"}},
+                    "normal~":"images/主页2/top_u44.png"}},
 {
                   "id":"dd60184daea6418abf71a1d6a59c893c",
                   "label":"",
@@ -3381,7 +3381,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页2/u154.png"}},
+                    "normal~":"images/主页2/u150.png"}},
 {
                   "id":"b85065e064ed454eb3f2c7c23b7dd35d",
                   "label":"",

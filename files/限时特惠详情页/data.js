@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"限时特惠详情页.html",
-  "generationDate":new Date(1505704596355.87),
+  "generationDate":new Date(1505789939331.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -286,7 +286,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u46.png"}},
+            "normal~":"images/主页2/top_u44.png"}},
 {
           "id":"ac45b92f791b4adbb52042a50d25cfc4",
           "label":"",
@@ -335,7 +335,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u107.png"}},
+            "normal~":"images/主页2/u103.png"}},
 {
           "id":"5f390aa89e4442d89b609ac3c1b89e76",
           "label":"",

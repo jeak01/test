@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"更多功能_1.html",
-  "generationDate":new Date(1505704623811.09),
+  "generationDate":new Date(1505789969777.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -156,7 +156,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u349.png"}},
+            "normal~":"images/主页2/u159.png"}},
 {
           "id":"5b5cfe99197147e0b670e7698380e85e",
           "label":"",

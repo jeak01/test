@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农场体验游详情.html",
-  "generationDate":new Date(1505704594507.64),
+  "generationDate":new Date(1505789937517.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -170,7 +170,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u67.png"}},
+            "normal~":"images/主页2/u65.png"}},
 {
           "id":"70fe9b8bf62540bca8069834016c593c",
           "label":"",
@@ -219,7 +219,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u107.png"}},
+            "normal~":"images/主页2/u103.png"}},
 {
           "id":"5f2785ae6a4a43abb26359ada3b09237",
           "label":"",
@@ -336,7 +336,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u229.jpg"}},
+            "normal~":"images/蔬菜宅配/u456.jpg"}},
 {
           "id":"633196dca21f4682be01c22644ed2c22",
           "label":"",
@@ -820,7 +820,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页2/u67.png"}},
+                    "normal~":"images/主页2/u65.png"}},
 {
                   "id":"17bd5e82cb94470d945a3a0bd25e6591",
                   "label":"",
@@ -1180,7 +1180,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u166.png"}}]}},
+            "normal~":"images/主页/u166.png"}}]}},
   "masters":{
 },
   "objectPaths":{

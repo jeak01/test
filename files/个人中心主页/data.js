@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心主页.html",
-  "generationDate":new Date(1505704605106.68),
+  "generationDate":new Date(1505789948219.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -743,7 +743,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u81.png"}},
+            "normal~":"images/主页2/u79.png"}},
 {
           "id":"ac174a772887445fa307f986d5cc8da4",
           "label":"",
@@ -3084,7 +3084,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页2/u67.png"}},
+                      "normal~":"images/主页2/u65.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -3230,7 +3230,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页2/u75.png"}},
+                      "normal~":"images/主页2/u73.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -3265,7 +3265,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页2/u77.png"}},
+                      "normal~":"images/主页2/u75.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",
@@ -3337,7 +3337,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页2/u81.png"}},
+                      "normal~":"images/主页2/u79.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -3380,7 +3380,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页2/u83.png"}},
+                      "normal~":"images/主页2/u81.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -3415,7 +3415,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/主页2/u85.png"}},
+                      "normal~":"images/主页2/u83.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",

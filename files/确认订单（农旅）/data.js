@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单（农旅）.html",
-  "generationDate":new Date(1505704599523.97),
+  "generationDate":new Date(1505789942355.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -97,7 +97,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u46.png"}},
+            "normal~":"images/主页2/top_u44.png"}},
 {
           "id":"f6b268a31bc84bffa5d234518e9aba4a",
           "label":"",
@@ -146,7 +146,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u107.png"}},
+            "normal~":"images/主页2/u103.png"}},
 {
           "id":"abcc48370d824e4385c17158cf3e2548",
           "label":"",
@@ -1010,7 +1010,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u46.png"}},
+            "normal~":"images/主页2/top_u44.png"}},
 {
           "id":"01bfad8466eb4d208500f523226c3fb3",
           "label":"",
@@ -4607,11 +4607,8 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "location":{
-                      "x":210,
-                      "y":0},
                     "size":{
-                      "width":150,
+                      "width":360,
                       "height":50}},
                   "adaptiveStyles":{
 },
@@ -4624,11 +4621,8 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "location":{
-                          "x":210,
-                          "y":0},
                         "size":{
-                          "width":150,
+                          "width":360,
                           "height":50}},
                       "adaptiveStyles":{
 }}],
@@ -4648,7 +4642,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/确认订单（农旅）/u242.png"}}]}]},
+                    "normal~":"images/订单支付页/u30.png"}}]}]},
 {
           "id":"360629af9578452fb8a3de83c5a028ba",
           "label":"编辑旅客信息",

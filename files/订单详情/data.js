@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订单详情.html",
-  "generationDate":new Date(1505704596720.11),
+  "generationDate":new Date(1505789939692.43),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -91,7 +91,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u46.png"}},
+            "normal~":"images/主页2/top_u44.png"}},
 {
           "id":"54215657aa204d649cbe67344ec0084d",
           "label":"",
@@ -136,12 +136,12 @@
                       "description":"在 当前窗口 打开 全部订单",
                       "target":{
                         "targetType":"page",
-                        "url":"全部订单_1.html",
+                        "url":"全部订单.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u107.png"}},
+            "normal~":"images/主页2/u103.png"}},
 {
           "id":"0537fa734f214518b09113054f8164bd",
           "label":"",
@@ -758,7 +758,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/主页2/top_u46.png"}},
+                    "normal~":"images/主页2/top_u44.png"}},
 {
                   "id":"4bdaf3a37ac64ce390539e49e8b16206",
                   "label":"",
@@ -879,7 +879,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u166.png"}},
+            "normal~":"images/主页/u166.png"}},
 {
           "id":"2fd652a27d12486da195555779da14ef",
           "label":"",
@@ -912,7 +912,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u46.png"}},
+            "normal~":"images/主页2/top_u44.png"}},
 {
           "id":"b83fb0e072064b058c1609d19c308866",
           "label":"",
@@ -1060,7 +1060,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u75.png"}},
+            "normal~":"images/主页2/u73.png"}},
 {
           "id":"591ce7cf3b8c4a9d87f6e86b2dcb484f",
           "label":"",

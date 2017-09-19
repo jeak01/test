@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"鸡蛋详情.html",
-  "generationDate":new Date(1505704594847.87),
+  "generationDate":new Date(1505789937922.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -101,7 +101,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页2/top_u46.png"}}]}]},
+                    "normal~":"images/主页2/top_u44.png"}}]}]},
 {
           "id":"38e93408ec794eccad020ba14f6c2317",
           "label":"",
@@ -161,7 +161,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u46.png"}},
+            "normal~":"images/主页2/top_u44.png"}},
 {
           "id":"2cb16791d65a481d8596182861145928",
           "label":"",
@@ -210,7 +210,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u107.png"}},
+            "normal~":"images/主页2/u103.png"}},
 {
           "id":"ba029fbbe5e74f7bb37f05c11d9eaa82",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡主题页.html",
-  "generationDate":new Date(1505704595218.11),
+  "generationDate":new Date(1505789938151.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -158,7 +158,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u107.png"}},
+            "normal~":"images/主页2/u103.png"}},
 {
           "id":"23d9a6448f944e0fa005eced684a6934",
           "label":"",
@@ -1397,7 +1397,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡主题页/u68.png"}},
+            "normal~":"images/主页2/u185.png"}},
 {
           "id":"5ae0908599da43e985dc5b6535ee7546",
           "label":"",
@@ -1430,7 +1430,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择指定农场/u12.png"}},
+            "normal~":"images/主页2/u187.png"}},
 {
           "id":"b2b3a816998f43a59d96b8f232bdd20c",
           "label":"",
@@ -1524,7 +1524,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡主题页/u74.png"}},
+            "normal~":"images/主页2/u191.png"}},
 {
           "id":"ee2d0f454598493bbbfc303a6aef0bb3",
           "label":"",
@@ -1600,7 +1600,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择指定农场/u20.png"}},
+            "normal~":"images/主页2/u195.png"}},
 {
           "id":"cae4d2f4c48b4a798a9740ba4531177f",
           "label":"",
@@ -1645,7 +1645,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/农旅卡主题页/u80.png"}},
+            "normal~":"images/主页2/u197.png"}},
 {
           "id":"5aa35b77aaf2493a81a2faf8a0355b31",
           "label":"",
@@ -1721,7 +1721,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/选择指定农场/u26.png"}}]}},
+            "normal~":"images/主页2/u201.png"}}]}},
   "masters":{
 },
   "objectPaths":{

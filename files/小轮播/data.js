@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"小轮播.html",
-  "generationDate":new Date(1505704631217.08),
+  "generationDate":new Date(1505789979596.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -85,7 +85,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u46.png"}},
+            "normal~":"images/主页2/top_u44.png"}},
 {
           "id":"872640187cde461995c12c3310c50370",
           "label":"",
@@ -134,7 +134,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u107.png"}},
+            "normal~":"images/主页2/u103.png"}},
 {
           "id":"5d461c2f6d804383a230526066d1af49",
           "label":"",
@@ -1373,7 +1373,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页2/top_u46.png"}},
+              "normal~":"images/主页2/top_u44.png"}},
 {
             "id":"506791ca29ed45d4a2ce7c6554b086f0",
             "label":"",
@@ -1570,7 +1570,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页2/u75.png"}},
+              "normal~":"images/主页2/u73.png"}},
 {
             "id":"8ea57a5b3f8e48fb8d26368b9cd9484c",
             "label":"",
@@ -1699,7 +1699,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/主页2/u77.png"}},
+              "normal~":"images/主页2/u75.png"}},
 {
             "id":"947fc150c84545bc959a65c3c98bf4d6",
             "label":"",

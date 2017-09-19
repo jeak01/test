@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新人专享套餐.html",
-  "generationDate":new Date(1505704609781.78),
+  "generationDate":new Date(1505789953182.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -130,7 +130,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/top_u46.png"}},
+            "normal~":"images/主页2/top_u44.png"}},
 {
           "id":"70fe9b8bf62540bca8069834016c593c",
           "label":"",
@@ -179,7 +179,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u107.png"}},
+            "normal~":"images/主页2/u103.png"}},
 {
           "id":"5f2785ae6a4a43abb26359ada3b09237",
           "label":"",
@@ -3943,7 +3943,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u166.png"}},
+            "normal~":"images/主页/u166.png"}},
 {
           "id":"609ec88b904f41a89d4d6f3c91ec5218",
           "label":"",
@@ -4260,7 +4260,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/优游权益门票/u18.png"}},
+            "normal~":"images/优游权益门票/u29.png"}},
 {
           "id":"286167a468e2449aa2deaed1aafab87a",
           "label":"",
@@ -4402,7 +4402,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/新人专享套餐/u219.jpg"}},
+            "normal~":"images/优游权益门票/u18.jpg"}},
 {
           "id":"1d45f5e3322b4e7484ba15ad3226238d",
           "label":"",
