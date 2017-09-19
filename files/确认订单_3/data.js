@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认订单_3.html",
-  "generationDate":new Date(1505803504504.38),
+  "generationDate":new Date(1505804194772.59),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3381,7 +3381,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/主页2/u150.png"}},
+                    "normal~":"images/主页2/u248.png"}},
 {
                   "id":"b85065e064ed454eb3f2c7c23b7dd35d",
                   "label":"",

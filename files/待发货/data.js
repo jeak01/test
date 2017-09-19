@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"待发货.html",
-  "generationDate":new Date(1505803508404.97),
+  "generationDate":new Date(1505804198494.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -156,7 +156,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/主页2/u159.png"}},
+            "normal~":"images/主页2/u150.png"}},
 {
           "id":"5b5cfe99197147e0b670e7698380e85e",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅卡主题页.html",
-  "generationDate":new Date(1505803498167.18),
+  "generationDate":new Date(1505804188440.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1397,7 +1397,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u185.png"}},
+            "normal~":"images/主页2/u176.png"}},
 {
           "id":"5ae0908599da43e985dc5b6535ee7546",
           "label":"",
@@ -1430,7 +1430,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u187.png"}},
+            "normal~":"images/主页2/u178.png"}},
 {
           "id":"b2b3a816998f43a59d96b8f232bdd20c",
           "label":"",
@@ -1524,7 +1524,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u191.png"}},
+            "normal~":"images/主页2/u182.png"}},
 {
           "id":"ee2d0f454598493bbbfc303a6aef0bb3",
           "label":"",
@@ -1600,7 +1600,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u195.png"}},
+            "normal~":"images/主页2/u186.png"}},
 {
           "id":"cae4d2f4c48b4a798a9740ba4531177f",
           "label":"",
@@ -1645,7 +1645,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u197.png"}},
+            "normal~":"images/主页2/u188.png"}},
 {
           "id":"5aa35b77aaf2493a81a2faf8a0355b31",
           "label":"",
@@ -1721,7 +1721,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页2/u201.png"}}]}},
+            "normal~":"images/主页2/u192.png"}}]}},
   "masters":{
 },
   "objectPaths":{
