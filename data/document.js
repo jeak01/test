@@ -21,13 +21,21 @@
             "type":"Wireframe",
             "url":"0_0主页.html",
             "children":[{
+                "pageName":"主页二",
+                "type":"Wireframe",
+                "url":"主页二.html"},
+{
                 "pageName":"0.1选择城市",
                 "type":"Wireframe",
                 "url":"0_1选择城市.html"}]},
 {
-            "pageName":"登录",
+            "pageName":"0.2登录",
             "type":"Wireframe",
-            "url":"登录.html"},
+            "url":"0_2登录.html"},
+{
+            "pageName":"0.3注册",
+            "type":"Wireframe",
+            "url":"0_3注册.html"},
 {
             "pageName":"1.0蔬菜宅配",
             "type":"Wireframe",
@@ -215,7 +223,11 @@
 {
                 "pageName":"5.4待支付订单",
                 "type":"Wireframe",
-                "url":"5_4待支付订单.html"}]},
+                "url":"5_4待支付订单.html"},
+{
+                "pageName":"我的账户",
+                "type":"Wireframe",
+                "url":"我的账户.html"}]},
 {
             "pageName":"10.0供应商系统主页",
             "type":"Wireframe",
