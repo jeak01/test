@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"0_0主页.html",
-  "generationDate":new Date(1505906338344.35),
+  "generationDate":new Date(1505907348487.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -4828,7 +4828,7 @@
                       "x":0,
                       "y":7},
                     "size":{
-                      "width":298,
+                      "width":287,
                       "height":14}},
                   "adaptiveStyles":{
 },
@@ -4846,7 +4846,7 @@
                           "x":0,
                           "y":7},
                         "size":{
-                          "width":298,
+                          "width":287,
                           "height":14}},
                       "adaptiveStyles":{
 }}],
