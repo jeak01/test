@@ -21,10 +21,6 @@
             "type":"Wireframe",
             "url":"0_0主页.html",
             "children":[{
-                "pageName":"主页二",
-                "type":"Wireframe",
-                "url":"主页二.html"},
-{
                 "pageName":"0.1选择城市",
                 "type":"Wireframe",
                 "url":"0_1选择城市.html"}]},
