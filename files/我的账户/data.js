@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的账户.html",
-  "generationDate":new Date(1505908382539.93),
+  "generationDate":new Date(1505958010243.76),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -388,7 +388,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/3_0会员充值/u43.png"}}]}},
+            "normal~":"images/3_0会员充值/u41.png"}}]}},
   "masters":{
 },
   "objectPaths":{

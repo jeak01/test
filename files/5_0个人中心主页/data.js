@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_0个人中心主页.html",
-  "generationDate":new Date(1505908380279.43),
+  "generationDate":new Date(1505958007963.24),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -372,7 +372,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_0发现/u136.png"}},
+            "normal~":"images/4_2农旅线路/u195.png"}},
 {
           "id":"3756d8c0ce1a44809c90d8ec661b0562",
           "label":"",
