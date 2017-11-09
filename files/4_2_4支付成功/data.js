@@ -1,11 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_4支付成功.html",
-  "generationDate":new Date(1505958006691.4),
+  "generationDate":new Date(1510229493866.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc",
+"carNum"],
   "page":{
     "packageId":"1caf7887d8e94e56907ea652b8e28c1e",
     "type":"Axure:Page",
@@ -70,7 +72,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_2订单支付页/u0.png"}},
+            "normal~":"images/2_2_3_1确认订单（权益农旅）/u0.png"}},
 {
           "id":"7cd79df75a1a40d0be2f5e9fd844911f",
           "label":"",
@@ -97,7 +99,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u99.png"}},
+            "normal~":"images/2_2_3_1确认订单（权益农旅）/u2.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -146,7 +148,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u5.png"}},
+            "normal~":"images/2_2_2_1确认订单_权益优品_/u4.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -218,7 +220,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_3支付成功/u8.png"}},
+            "normal~":"images/1_3支付成功（农旅卡购卡）/u8.png"}},
 {
           "id":"b2425a5e5af44b13a60a3a86443519a1",
           "label":"",
@@ -259,7 +261,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u254.png"}},
+            "normal~":"images/1_3支付成功（农旅卡购卡）/u10.png"}},
 {
           "id":"21163552684e464a923121757a0d1de4",
           "label":"",
@@ -342,7 +344,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_3支付成功/u14.png"}},
+            "normal~":"images/1_3支付成功（农旅卡购卡）/u18.png"}},
 {
           "id":"289aab97651f4349a5ed7c0adb8488b1",
           "label":"",
@@ -398,7 +400,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_3支付成功/u17.png"}}]}},
+            "normal~":"images/1_3支付成功（农旅卡购卡）/u16.png"}}]}},
   "masters":{
 },
   "objectPaths":{

@@ -1,11 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"10_2菜品列表.html",
-  "generationDate":new Date(1505958011234.42),
+  "generationDate":new Date(1510229501421.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc",
+"carNum"],
   "page":{
     "packageId":"324c598b381e49829e7665d6fc580797",
     "type":"Axure:Page",
@@ -406,7 +408,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/10_2菜品列表/u14.png"}},
+            "normal~":"images/6_1现场特惠卖单/u8.png"}},
 {
           "id":"a5c3ab6129204250a1469a6a6e0566a0",
           "label":"",
@@ -610,7 +612,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/10_2菜品列表/u14.png"}},
+            "normal~":"images/6_1现场特惠卖单/u8.png"}},
 {
           "id":"331f01d597ab4e10bbf0df1b2d77d828",
           "label":"",
@@ -814,7 +816,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/10_2菜品列表/u14.png"}},
+            "normal~":"images/6_1现场特惠卖单/u8.png"}},
 {
           "id":"41f8a983c0cd4da0ae03bc4f47a9946c",
           "label":"",
@@ -1018,7 +1020,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/10_2菜品列表/u14.png"}},
+            "normal~":"images/6_1现场特惠卖单/u8.png"}},
 {
           "id":"c87e1ccb5c1d4280b8008d0da7328dad",
           "label":"",
@@ -1207,7 +1209,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/10_2菜品列表/u14.png"}},
+            "normal~":"images/6_1现场特惠卖单/u8.png"}},
 {
           "id":"6c0d1a8843264e0b83f07b9dac4a0fee",
           "label":"",
@@ -1396,7 +1398,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/10_2菜品列表/u14.png"}},
+            "normal~":"images/6_1现场特惠卖单/u8.png"}},
 {
           "id":"a99d1144c9eb4d8db16c48f52a9a7ba3",
           "label":"",

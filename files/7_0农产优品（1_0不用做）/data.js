@@ -1,0 +1,41 @@
+﻿$axure.loadCurrentPage({
+  "url":"7_0农产优品（1_0不用做）.html",
+  "generationDate":new Date(1510229481073.36),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"status",
+"package",
+"payFrom",
+"nc",
+"carNum"],
+  "page":{
+    "packageId":"275a104eb10043028f57ad0430ac3152",
+    "type":"Axure:Page",
+    "name":"7.0农产优品（1.0不用做）",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[]}},
+  "masters":{
+},
+  "objectPaths":{
+}});

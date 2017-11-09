@@ -1,11 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_3_1文章列表.html",
-  "generationDate":new Date(1505958007542.96),
+  "generationDate":new Date(1510229494609.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc",
+"carNum"],
   "page":{
     "packageId":"19dce33d553647b1813fd9ed9b3a85f0",
     "type":"Axure:Page",
@@ -103,7 +105,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_3_1文章列表/u2.png"}},
+            "normal~":"images/7_3农场店铺页/u2.png"}},
 {
           "id":"48b24337312a47d68105518e1f4e6c3a",
           "label":"",
@@ -152,7 +154,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u5.png"}},
+            "normal~":"images/2_2_2_1确认订单_权益优品_/u4.png"}},
 {
           "id":"d62e4c354e8545c0b7da81ba8468998f",
           "label":"",
@@ -345,7 +347,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2农旅线路/u195.png"}},
+            "normal~":"images/2_0个人中心主页/u10.png"}},
 {
           "id":"3e4257938ae0404990ac0efe746bdbe1",
           "label":"",
@@ -697,7 +699,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2农旅线路/u195.png"}},
+            "normal~":"images/2_0个人中心主页/u10.png"}},
 {
           "id":"1d5acd0110c4414bbb1dd6f28aa18fd1",
           "label":"",
@@ -1049,7 +1051,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2农旅线路/u195.png"}},
+            "normal~":"images/2_0个人中心主页/u10.png"}},
 {
           "id":"f0fac98750004fec849a92b51dcf7d8c",
           "label":"",
@@ -1426,7 +1428,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2农旅线路/u195.png"}},
+            "normal~":"images/2_0个人中心主页/u10.png"}},
 {
           "id":"030f355cdf0041b8b224a4bceffaeb8f",
           "label":"",
@@ -1778,7 +1780,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2农旅线路/u195.png"}},
+            "normal~":"images/2_0个人中心主页/u10.png"}},
 {
           "id":"ddfb40a710db4752869a0170556ce6fb",
           "label":"",
@@ -2130,7 +2132,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2农旅线路/u195.png"}},
+            "normal~":"images/2_0个人中心主页/u10.png"}},
 {
           "id":"c8d0a7231b73473a986e580b0cae971a",
           "label":"",
@@ -2589,7 +2591,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/top_u3.png"}},
+                      "normal~":"images/6_1_1确认订单（现场）/u2.png"}},
 {
                     "id":"d004dced895a4eacb5efe917cca36edf",
                     "label":"",
@@ -2735,7 +2737,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u127.png"}},
+                      "normal~":"images/1_9订单详情（农旅卡）/u36.png"}},
 {
                     "id":"fcf6bc000ad54b73a898b7612b0fd1be",
                     "label":"",
@@ -2770,7 +2772,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u129.png"}},
+                      "normal~":"images/2_2_3_3订单详情（权益农旅）/u34.png"}},
 {
                     "id":"469056e6db7b48ea8beb0cde764fda32",
                     "label":"",
@@ -2842,7 +2844,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u133.png"}},
+                      "normal~":"images/0_0主页/u227.png"}},
 {
                     "id":"e54b788ac95740f0a17b53707d224d1e",
                     "label":"",
@@ -2885,7 +2887,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u135.png"}},
+                      "normal~":"images/0_0主页/u229.png"}},
 {
                     "id":"e0c8b35ab6c640e4bfa3685c98588a2d",
                     "label":"",
@@ -2920,7 +2922,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/0_0主页/u137.png"}},
+                      "normal~":"images/0_0主页/u231.png"}},
 {
                     "id":"c6e97157c788455f9783097231226f7e",
                     "label":"",
@@ -2945,10 +2947,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 5.0个人中心主页",
+                                "description":"在 当前窗口 打开 2.0个人中心主页",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"5_0个人中心主页.html",
+                                  "url":"2_0个人中心主页_1.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -3058,10 +3060,10 @@
                             "isNewIfGroup":false,
                             "actions":[{
                                 "action":"linkWindow",
-                                "description":"在 当前窗口 打开 1.0蔬菜宅配",
+                                "description":"在 当前窗口 打开 5.5宅配选菜",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"1_0蔬菜宅配.html",
+                                  "url":"5_5宅配选菜.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true},
@@ -3123,7 +3125,7 @@
                                 "description":"在 当前窗口 打开 3.0会员充值",
                                 "target":{
                                   "targetType":"page",
-                                  "url":"3_0会员充值.html",
+                                  "url":"3_0会员充值_1.html",
                                   "includeVariables":true},
                                 "linkType":"current"}]}]}},
                     "tabbable":true}]}]}]}}},

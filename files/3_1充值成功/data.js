@@ -1,13 +1,15 @@
 ﻿$axure.loadCurrentPage({
   "url":"3_1充值成功.html",
-  "generationDate":new Date(1505958001821.17),
+  "generationDate":new Date(1510229480683.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc",
+"carNum"],
   "page":{
-    "packageId":"2d6b6bc21c4942f7abbd01cedef9c110",
+    "packageId":"81f0acbe941440238d402307a88ca4c6",
     "type":"Axure:Page",
     "name":"3.1充值成功",
     "notes":{
@@ -70,7 +72,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_2订单支付页/u0.png"}},
+            "normal~":"images/2_2_3_1确认订单（权益农旅）/u0.png"}},
 {
           "id":"7cd79df75a1a40d0be2f5e9fd844911f",
           "label":"",
@@ -97,7 +99,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/0_0主页/top_u99.png"}},
+            "normal~":"images/2_2_3_1确认订单（权益农旅）/u2.png"}},
 {
           "id":"c66da8410f0b40a1a25da9e299c2adb7",
           "label":"",
@@ -146,7 +148,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u5.png"}},
+            "normal~":"images/2_2_2_1确认订单_权益优品_/u4.png"}},
 {
           "id":"85ffd25ae39541e4bf3f1dcd44a6454f",
           "label":"",
@@ -198,7 +200,7 @@
               "y":60},
             "size":{
               "width":360,
-              "height":180}},
+              "height":190}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -214,11 +216,11 @@
                   "y":60},
                 "size":{
                   "width":360,
-                  "height":180}},
+                  "height":190}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_3支付成功/u8.png"}},
+            "normal~":"images/2_2_3_1确认订单（权益农旅）/u16.png"}},
 {
           "id":"b2425a5e5af44b13a60a3a86443519a1",
           "label":"",
@@ -259,7 +261,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u254.png"}},
+            "normal~":"images/1_3支付成功（农旅卡购卡）/u10.png"}},
 {
           "id":"21163552684e464a923121757a0d1de4",
           "label":"",
@@ -294,56 +296,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"2ddd15c445c548298a3876d21f53282d",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":56,
-              "y":180},
-            "size":{
-              "width":117,
-              "height":40},
-            "cornerRadiusTopLeft":"5"},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"324249df972247b2ac1c3f14b218acb2",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":56,
-                  "y":180},
-                "size":{
-                  "width":117,
-                  "height":40},
-                "cornerRadiusTopLeft":"5"},
-              "adaptiveStyles":{
-}}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 0.0主页",
-                      "target":{
-                        "targetType":"page",
-                        "url":"0_0主页.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
-          "images":{
-            "normal~":"images/1_3支付成功/u14.png"}},
-{
           "id":"289aab97651f4349a5ed7c0adb8488b1",
           "label":"",
           "type":"buttonShape",
@@ -354,7 +306,7 @@
               "fillType":"solid",
               "color":0xFFDDDDDD},
             "location":{
-              "x":182,
+              "x":120,
               "y":180},
             "size":{
               "width":117,
@@ -374,7 +326,7 @@
                   "fillType":"solid",
                   "color":0xFFDDDDDD},
                 "location":{
-                  "x":182,
+                  "x":120,
                   "y":180},
                 "size":{
                   "width":117,
@@ -390,15 +342,15 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 3.0会员充值",
+                      "description":"在 当前窗口 打开 6.1现场特惠卖单",
                       "target":{
                         "targetType":"page",
-                        "url":"3_0会员充值.html",
+                        "url":"6_1现场特惠卖单.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/1_3支付成功/u17.png"}}]}},
+            "normal~":"images/1_3支付成功（农旅卡购卡）/u16.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -430,11 +382,7 @@
       "scriptId":"u12"},
     "74ea836ace594e7f8266b376b214c455":{
       "scriptId":"u13"},
-    "2ddd15c445c548298a3876d21f53282d":{
-      "scriptId":"u14"},
-    "324249df972247b2ac1c3f14b218acb2":{
-      "scriptId":"u15"},
     "289aab97651f4349a5ed7c0adb8488b1":{
-      "scriptId":"u16"},
+      "scriptId":"u14"},
     "4d46d80498124e46925b84e20ce00b81":{
-      "scriptId":"u17"}}});
+      "scriptId":"u15"}}});

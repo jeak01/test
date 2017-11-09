@@ -1,11 +1,13 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_3_1_1文章详情.html",
-  "generationDate":new Date(1505958007768.11),
+  "generationDate":new Date(1510229494935.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
 "package",
-"payFrom"],
+"payFrom",
+"nc",
+"carNum"],
   "page":{
     "packageId":"ee2b69863c7c42b681dcaf6ffd53803a",
     "type":"Axure:Page",
@@ -103,7 +105,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_3_1文章列表/u2.png"}},
+            "normal~":"images/7_3农场店铺页/u2.png"}},
 {
           "id":"48b24337312a47d68105518e1f4e6c3a",
           "label":"",
@@ -152,7 +154,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/0_0主页/u5.png"}},
+            "normal~":"images/2_2_2_1确认订单_权益优品_/u4.png"}},
 {
           "id":"f7f257f2bbe1412498af452a6d93096c",
           "label":"",
@@ -821,7 +823,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u5.png"}},
+            "normal~":"images/2_2_2_1确认订单_权益优品_/u25.png"}},
 {
           "id":"84e8c2df97ad48b99d29b4b8ca23634c",
           "label":"",
@@ -1010,7 +1012,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u5.png"}},
+            "normal~":"images/2_2_2_1确认订单_权益优品_/u25.png"}},
 {
           "id":"15ab1fd4bedd47c194f1f929f537095a",
           "label":"",
@@ -1156,7 +1158,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u5.png"}},
+            "normal~":"images/2_2_2_1确认订单_权益优品_/u25.png"}},
 {
           "id":"d0dc2dbc11b74391a76393cb95b932ab",
           "label":"",
@@ -1228,7 +1230,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/4_2农旅线路/u318.jpg"}},
+            "normal~":"images/4_2_5订单详情（农旅）/u33.jpg"}},
 {
           "id":"81aa2ad68a9c4e338adfc54fcca96928",
           "label":"",
@@ -1302,7 +1304,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/1_0蔬菜宅配/u5.png"}}]}},
+            "normal~":"images/2_2_2_1确认订单_权益优品_/u25.png"}}]}},
   "masters":{
 },
   "objectPaths":{
