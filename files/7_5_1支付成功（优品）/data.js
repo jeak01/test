@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_5_1支付成功（优品）.html",
-  "generationDate":new Date(1510229472822.23),
+  "generationDate":new Date(1510820850913.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -381,10 +381,9 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 7.6订单详情（优品）",
+                              "description":"在 当前窗口 打开 链接",
                               "target":{
                                 "targetType":"page",
-                                "url":"7_6订单详情（优品）_1.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
@@ -420,9 +419,6 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fill":{
-                      "fillType":"solid",
-                      "color":0xFFDDDDDD},
                     "size":{
                       "width":117,
                       "height":40},
@@ -438,9 +434,6 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFDDDDDD},
                         "size":{
                           "width":117,
                           "height":40},
@@ -455,15 +448,14 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 7.3农场店铺页",
+                              "description":"在 当前窗口 打开 链接",
                               "target":{
                                 "targetType":"page",
-                                "url":"7_3农场店铺页.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/1_3支付成功（农旅卡购卡）/u16.png"}}]}]},
+                    "normal~":"images/1_3支付成功（农旅卡购卡）/u18.png"}}]}]},
 {
           "id":"37f25ff3aa1b4f9b9eeb3a824d8641f6",
           "label":"",

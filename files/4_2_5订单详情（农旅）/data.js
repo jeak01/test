@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"4_2_5订单详情（农旅）.html",
-  "generationDate":new Date(1510229473331.57),
+  "generationDate":new Date(1510820851879.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1334,10 +1334,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 0.0主页",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"0_0主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

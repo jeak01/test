@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_1确认订单（蔬菜宅配套餐）.html",
-  "generationDate":new Date(1510229471844.58),
+  "generationDate":new Date(1510820849869.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -2840,10 +2840,9 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 5.2订单支付页",
+                              "description":"在 当前窗口 打开 链接",
                               "target":{
                                 "targetType":"page",
-                                "url":"5_2订单支付页.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

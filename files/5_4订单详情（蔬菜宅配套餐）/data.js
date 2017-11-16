@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_4订单详情（蔬菜宅配套餐）.html",
-  "generationDate":new Date(1510229473442.64),
+  "generationDate":new Date(1510820851999.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -746,10 +746,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 0.0主页",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"0_0主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

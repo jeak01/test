@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_3支付成功（蔬菜宅配套餐）.html",
-  "generationDate":new Date(1510229472702.15),
+  "generationDate":new Date(1510820850767.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -357,10 +357,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 0.0主页",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"0_0主页.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -431,10 +430,9 @@
                           "isNewIfGroup":false,
                           "actions":[{
                               "action":"linkWindow",
-                              "description":"在 当前窗口 打开 5.5宅配选菜",
+                              "description":"在 当前窗口 打开 链接",
                               "target":{
                                 "targetType":"page",
-                                "url":"5_5宅配选菜.html",
                                 "includeVariables":true},
                               "linkType":"current"}]}]}},
                   "tabbable":true,

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"1_3支付成功（农旅卡购卡）.html",
-  "generationDate":new Date(1510229472570.06),
+  "generationDate":new Date(1510820850636.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -396,10 +396,9 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 1.5完善信息",
+                      "description":"在 当前窗口 打开 链接",
                       "target":{
                         "targetType":"page",
-                        "url":"1_5完善信息.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
