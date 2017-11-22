@@ -13,6 +13,10 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
+        "pageName":"订单模块页面关系",
+        "type":"Wireframe",
+        "url":"订单模块页面关系.html"},
+{
         "pageName":"确认订单",
         "type":"Folder",
         "url":"",
