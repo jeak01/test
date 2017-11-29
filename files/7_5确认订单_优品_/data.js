@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"7_5确认订单_优品_.html",
-  "generationDate":new Date(1511350032836.7),
+  "generationDate":new Date(1511949265150.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -3874,7 +3874,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/4_2_2确认订单_农旅_/u102.png"}}]}]},
+                    "normal~":"images/4_2_2确认订单_农旅_/u67.png"}}]}]},
 {
           "id":"c493a4f16e3546f8956cc37882377890",
           "label":"",

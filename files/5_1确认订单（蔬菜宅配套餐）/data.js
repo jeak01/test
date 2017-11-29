@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"5_1确认订单（蔬菜宅配套餐）.html",
-  "generationDate":new Date(1511350032288.39),
+  "generationDate":new Date(1511949263935.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -1358,7 +1358,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_2_2确认订单_农旅_/u286.png"}},
+                    "normal~":"images/4_2_2确认订单_农旅_/u251.png"}},
 {
                   "id":"a0179edfe6c74d7cba494809411bb9f3",
                   "label":"",
@@ -1514,7 +1514,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_2_2确认订单_农旅_/u294.png"}},
+                    "normal~":"images/4_2_2确认订单_农旅_/u259.png"}},
 {
                   "id":"17162239ee614319ab54d856d0fda59a",
                   "label":"",
@@ -1563,7 +1563,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_2_2确认订单_农旅_/u296.png"}},
+                    "normal~":"images/4_2_2确认订单_农旅_/u261.png"}},
 {
                   "id":"19fa9a6bfdb947e9b58dc749dd71242e",
                   "label":"",
@@ -1770,7 +1770,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_2_2确认订单_农旅_/u294.png"}},
+                    "normal~":"images/4_2_2确认订单_农旅_/u259.png"}},
 {
                   "id":"ff198d2563734dafb4ed6356e738e6a9",
                   "label":"",
@@ -1819,7 +1819,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_2_2确认订单_农旅_/u296.png"}},
+                    "normal~":"images/4_2_2确认订单_农旅_/u261.png"}},
 {
                   "id":"7453a5df18084d73bc0c31ecfd542249",
                   "label":"",
@@ -2026,7 +2026,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_2_2确认订单_农旅_/u294.png"}},
+                    "normal~":"images/4_2_2确认订单_农旅_/u259.png"}},
 {
                   "id":"dfcd399525b647068cd494f283b2a752",
                   "label":"",
@@ -2075,7 +2075,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_2_2确认订单_农旅_/u296.png"}},
+                    "normal~":"images/4_2_2确认订单_农旅_/u261.png"}},
 {
                   "id":"fa891bbe349649bfabc03667a9a07023",
                   "label":"",
@@ -2327,7 +2327,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_2_2确认订单_农旅_/u294.png"}},
+                    "normal~":"images/4_2_2确认订单_农旅_/u259.png"}},
 {
                   "id":"463bcaf88d5d4826b80efbb76c82d5c1",
                   "label":"",
@@ -2376,7 +2376,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/4_2_2确认订单_农旅_/u334.png"}},
+                    "normal~":"images/4_2_2确认订单_农旅_/u299.png"}},
 {
                   "id":"9ec995e171ff4e009ef77738c641cbfb",
                   "label":"",
@@ -2601,7 +2601,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/4_2_2确认订单_农旅_/u344.png"}},
+                    "normal~":"images/4_2_2确认订单_农旅_/u309.png"}},
 {
                   "id":"4ff37c693a494614954ce7e0516526bd",
                   "label":"",
@@ -2847,7 +2847,7 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/4_2_2确认订单_农旅_/u102.png"}}]}]},
+                    "normal~":"images/4_2_2确认订单_农旅_/u67.png"}}]}]},
 {
           "id":"b78f10bdc6e24233abd00efbc8d50a4e",
           "label":"",
