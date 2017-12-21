@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
-  "url":"订单模块页面关系.html",
-  "generationDate":new Date(1513847477196.49),
+  "url":"农旅订单状态流程图_1.html",
+  "generationDate":new Date(1513847490383.24),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -9,9 +9,9 @@
 "nc",
 "carNum"],
   "page":{
-    "packageId":"540f5a435ee6458f9e997ffb6dcf3d55",
+    "packageId":"c1140ad755554adaa204ba44cef8fe1e",
     "type":"Axure:Page",
-    "name":"订单模块页面关系",
+    "name":"农旅订单状态流程图",
     "notes":{
 },
     "style":{
@@ -35,22 +35,22 @@
 },
     "diagram":{
       "objects":[{
-          "id":"adb02b9d5c3c47a3a26ff01a2fe18ebd",
+          "id":"e6029deeca464c67b20014c7664a6168",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
           "visible":true,
           "style":{
             "location":{
-              "x":10,
-              "y":10},
+              "x":17,
+              "y":29},
             "size":{
-              "width":810,
-              "height":698}},
+              "width":783,
+              "height":311}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"ee40a776d1444186851b6363ceb4dc72",
+              "id":"9afd6c88292f4654bddd745e08b23c93",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -58,19 +58,19 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":10,
-                  "y":10},
+                  "x":17,
+                  "y":29},
                 "size":{
-                  "width":810,
-                  "height":698}},
+                  "width":783,
+                  "height":311}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/订单模块页面关系/u0.jpg"}}]}},
+            "normal~":"images/农旅订单状态流程图_1/u0.jpg"}}]}},
   "masters":{
 },
   "objectPaths":{
-    "adb02b9d5c3c47a3a26ff01a2fe18ebd":{
+    "e6029deeca464c67b20014c7664a6168":{
       "scriptId":"u0"},
-    "ee40a776d1444186851b6363ceb4dc72":{
+    "9afd6c88292f4654bddd745e08b23c93":{
       "scriptId":"u1"}}});

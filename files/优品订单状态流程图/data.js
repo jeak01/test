@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"优品订单状态流程图.html",
-  "generationDate":new Date(1511949267606.38),
+  "generationDate":new Date(1513847487052.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -41,12 +41,9 @@
           "styleType":"imageBox",
           "visible":true,
           "style":{
-            "location":{
-              "x":20,
-              "y":27},
             "size":{
-              "width":730,
-              "height":280}},
+              "width":783,
+              "height":220}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -57,12 +54,9 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "location":{
-                  "x":20,
-                  "y":27},
                 "size":{
-                  "width":730,
-                  "height":280}},
+                  "width":783,
+                  "height":220}},
               "adaptiveStyles":{
 }}],
           "images":{

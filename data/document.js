@@ -121,10 +121,6 @@
             "type":"Wireframe",
             "url":"7_6订单详情（优品）待发货.html"},
 {
-            "pageName":"7.6订单详情（优品）退款审核",
-            "type":"Wireframe",
-            "url":"7_6订单详情（优品）退款审核.html"},
-{
             "pageName":"7.6订单详情（优品）已退款",
             "type":"Wireframe",
             "url":"7_6订单详情（优品）已退款.html"},
@@ -153,14 +149,6 @@
             "type":"Wireframe",
             "url":"4_2_5订单详情（农旅）已取消.html"},
 {
-            "pageName":"4.2.5订单详情（农旅）审核中",
-            "type":"Wireframe",
-            "url":"4_2_5订单详情（农旅）审核中.html"},
-{
-            "pageName":"4.2.5订单详情（农旅）退款审核",
-            "type":"Wireframe",
-            "url":"4_2_5订单详情（农旅）退款审核.html"},
-{
             "pageName":"4.2.5订单详情（农旅）已退款",
             "type":"Wireframe",
             "url":"4_2_5订单详情（农旅）已退款.html"},
@@ -171,7 +159,19 @@
 {
             "pageName":"4.2.5订单详情（农旅）交易完成",
             "type":"Wireframe",
-            "url":"4_2_5订单详情（农旅）交易完成.html"}]}]},
+            "url":"4_2_5订单详情（农旅）交易完成.html"}]},
+{
+        "pageName":"备份",
+        "type":"Folder",
+        "url":"",
+        "children":[{
+            "pageName":"农旅订单状态流程图",
+            "type":"Wireframe",
+            "url":"农旅订单状态流程图_1.html"},
+{
+            "pageName":"优品订单状态流程图",
+            "type":"Wireframe",
+            "url":"优品订单状态流程图_1.html"}]}]},
   "globalVariables":{
     "onloadvariable":"",
     "status":"",

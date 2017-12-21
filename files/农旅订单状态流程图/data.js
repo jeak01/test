@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"农旅订单状态流程图.html",
-  "generationDate":new Date(1511949269394.4),
+  "generationDate":new Date(1513847489519.67),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "status",
@@ -41,12 +41,9 @@
           "styleType":"imageBox",
           "visible":true,
           "style":{
-            "location":{
-              "x":17,
-              "y":29},
             "size":{
-              "width":783,
-              "height":311}},
+              "width":690,
+              "height":278}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -57,12 +54,9 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "location":{
-                  "x":17,
-                  "y":29},
                 "size":{
-                  "width":783,
-                  "height":311}},
+                  "width":690,
+                  "height":278}},
               "adaptiveStyles":{
 }}],
           "images":{
